@@ -1,0 +1,68 @@
+name: Update rainfall data
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+    - cron: "0 3 * * *"
+    - cron: "30 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect data
+        run: python collect.py
+
+      - name: Confirm the data file is valid
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          path = pathlib.Path("data/latest.json")
+          if not path.exists():
+              sys.exit("data/latest.json was not written")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          for key in ("headline", "agreement", "rolling_curve", "sources"):
+              if key not in data:
+                  sys.exit(f"missing key: {key}")
+          if not data["rolling_curve"]:
+              sys.exit("rolling_curve is empty")
+          working = sum(1 for s in data["sources"].values()
+                        if s["status"] == "ok")
+          print(f"{working} of {len(data['sources'])} sources ok")
+          print(f"{data['headline']['status_text']}")
+          print(f"agreement: {data['agreement']['level']}")
+          PY
+
+      - name: Commit the updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          if git diff --staged --quiet; then
+            echo "No change in the data. Nothing to commit."
+          else
+            git commit -m "Data update $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
