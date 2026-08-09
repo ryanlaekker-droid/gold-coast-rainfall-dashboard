@@ -1,0 +1,6 @@
+streamlit>=1.60,<2
+pandas>=3.0,<4
+plotly>=6.0,<7
+requests>=2.32,<3
+lxml>=6.0,<7
+beautifulsoup4>=4.14,<5
