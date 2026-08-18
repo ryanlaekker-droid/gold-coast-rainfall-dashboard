@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-18T04:56:32+00:00",
-  "generated_at_local": "2026-08-18T14:56:32+10:00",
+  "generated_at_utc": "2026-08-18T10:54:15+00:00",
+  "generated_at_local": "2026-08-18T20:54:15+10:00",
   "location": {
     "name": "Gold Coast Airport (Coolangatta)",
     "latitude": -28.1644,
@@ -26,8 +26,7 @@
   },
   "agreement": {
     "sources_indicating": [
-      "GFS",
-      "ICON"
+      "GFS"
     ],
     "sources_assessed": [
       "ECMWF ensemble",
@@ -37,8 +36,8 @@
     ],
     "sources_unassessed": [],
     "coverage": "All 4 sources cover this window.",
-    "level": "moderate",
-    "reasoning": "2 sources indicate \u226510 mm, but windows differ by 36 hours (GFS 14.1 mm to Wed 26 07:00; ICON 10.2 mm to Mon 24 19:00). All 4 sources cover this window."
+    "level": "weak",
+    "reasoning": "Only GFS 14.1 mm to Wed 26 07:00 indicates \u226510 mm. No other source agrees. All 4 sources cover this window."
   },
   "daily_comparison": [
     {
@@ -54,8 +53,8 @@
       "percent_over": 0,
       "models": {
         "GFS": 2.7,
-        "UKMO": 0.2,
-        "ICON": 0.8
+        "UKMO": 0.4,
+        "ICON": 1.4
       }
     },
     {
@@ -71,8 +70,8 @@
       "percent_over": 0,
       "models": {
         "GFS": 0.8,
-        "UKMO": 1.2,
-        "ICON": 1.8
+        "UKMO": 0.4,
+        "ICON": 0.1
       }
     },
     {
@@ -88,7 +87,7 @@
       "percent_over": 2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.7,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -105,8 +104,8 @@
       "percent_over": 0,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -139,8 +138,8 @@
       "percent_over": 8,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -156,8 +155,8 @@
       "percent_over": 2,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.4
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -173,8 +172,8 @@
       "percent_over": 2,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 5.7,
+        "ICON": 0.0
       }
     },
     {
@@ -237,8 +236,8 @@
       "p90": 7.0,
       "models": {
         "GFS": 2.7,
-        "UKMO": 0.2,
-        "ICON": 0.8
+        "UKMO": 0.4,
+        "ICON": 1.4
       }
     },
     {
@@ -248,8 +247,8 @@
       "p90": 6.3,
       "models": {
         "GFS": 2.9,
-        "UKMO": 0.1,
-        "ICON": 0.7
+        "UKMO": 0.5,
+        "ICON": 1.3
       }
     },
     {
@@ -259,8 +258,8 @@
       "p90": 5.8,
       "models": {
         "GFS": 2.9,
-        "UKMO": 0.1,
-        "ICON": 0.7
+        "UKMO": 0.4,
+        "ICON": 1.2
       }
     },
     {
@@ -270,8 +269,8 @@
       "p90": 5.7,
       "models": {
         "GFS": 2.1,
-        "UKMO": 0.2,
-        "ICON": 0.7
+        "UKMO": 0.4,
+        "ICON": 1.1
       }
     },
     {
@@ -281,8 +280,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 1.6,
-        "UKMO": 0.3,
-        "ICON": 0.8
+        "UKMO": 0.4,
+        "ICON": 1.2
       }
     },
     {
@@ -293,7 +292,7 @@
       "models": {
         "GFS": 1.4,
         "UKMO": 0.4,
-        "ICON": 1.0
+        "ICON": 1.2
       }
     },
     {
@@ -303,7 +302,7 @@
       "p90": 5.4,
       "models": {
         "GFS": 1.4,
-        "UKMO": 0.5,
+        "UKMO": 0.4,
         "ICON": 1.2
       }
     },
@@ -314,8 +313,8 @@
       "p90": 5.1,
       "models": {
         "GFS": 1.4,
-        "UKMO": 0.5,
-        "ICON": 1.4
+        "UKMO": 0.4,
+        "ICON": 1.1
       }
     },
     {
@@ -325,8 +324,8 @@
       "p90": 4.9,
       "models": {
         "GFS": 1.2,
-        "UKMO": 0.5,
-        "ICON": 1.5
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -336,8 +335,8 @@
       "p90": 4.7,
       "models": {
         "GFS": 0.9,
-        "UKMO": 0.5,
-        "ICON": 1.8
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -347,8 +346,8 @@
       "p90": 4.5,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.5,
-        "ICON": 1.9
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -358,8 +357,8 @@
       "p90": 4.4,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.5,
-        "ICON": 2.0
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -369,8 +368,8 @@
       "p90": 4.0,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.5,
-        "ICON": 2.0
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -380,8 +379,8 @@
       "p90": 3.9,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.5,
-        "ICON": 2.0
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -391,8 +390,8 @@
       "p90": 3.8,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.5,
-        "ICON": 2.0
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -402,8 +401,8 @@
       "p90": 3.4,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.5,
-        "ICON": 2.0
+        "UKMO": 0.4,
+        "ICON": 0.9
       }
     },
     {
@@ -413,8 +412,8 @@
       "p90": 3.3,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.5,
-        "ICON": 2.0
+        "UKMO": 0.4,
+        "ICON": 0.7
       }
     },
     {
@@ -424,8 +423,8 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.6,
-        "ICON": 1.9
+        "UKMO": 0.4,
+        "ICON": 0.4
       }
     },
     {
@@ -435,8 +434,8 @@
       "p90": 2.9,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.7,
-        "ICON": 1.8
+        "UKMO": 0.5,
+        "ICON": 0.2
       }
     },
     {
@@ -446,8 +445,8 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.8,
-        "UKMO": 0.7,
-        "ICON": 1.8
+        "UKMO": 0.6,
+        "ICON": 0.1
       }
     },
     {
@@ -457,8 +456,8 @@
       "p90": 2.6,
       "models": {
         "GFS": 0.8,
-        "UKMO": 1.0,
-        "ICON": 1.8
+        "UKMO": 0.6,
+        "ICON": 0.1
       }
     },
     {
@@ -468,8 +467,8 @@
       "p90": 2.3,
       "models": {
         "GFS": 0.8,
-        "UKMO": 1.2,
-        "ICON": 1.8
+        "UKMO": 0.6,
+        "ICON": 0.1
       }
     },
     {
@@ -479,8 +478,8 @@
       "p90": 2.4,
       "models": {
         "GFS": 0.8,
-        "UKMO": 1.2,
-        "ICON": 1.8
+        "UKMO": 0.6,
+        "ICON": 0.1
       }
     },
     {
@@ -490,8 +489,8 @@
       "p90": 2.3,
       "models": {
         "GFS": 0.8,
-        "UKMO": 1.2,
-        "ICON": 1.8
+        "UKMO": 0.5,
+        "ICON": 0.1
       }
     },
     {
@@ -501,8 +500,8 @@
       "p90": 2.1,
       "models": {
         "GFS": 0.8,
-        "UKMO": 1.2,
-        "ICON": 1.8
+        "UKMO": 0.4,
+        "ICON": 0.1
       }
     },
     {
@@ -512,8 +511,8 @@
       "p90": 2.1,
       "models": {
         "GFS": 0.6,
-        "UKMO": 1.2,
-        "ICON": 1.8
+        "UKMO": 0.2,
+        "ICON": 0.1
       }
     },
     {
@@ -523,8 +522,8 @@
       "p90": 1.7,
       "models": {
         "GFS": 0.6,
-        "UKMO": 1.1,
-        "ICON": 1.7
+        "UKMO": 0.2,
+        "ICON": 0.1
       }
     },
     {
@@ -534,8 +533,8 @@
       "p90": 1.5,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.2,
-        "ICON": 1.6
+        "UKMO": 0.2,
+        "ICON": 0.1
       }
     },
     {
@@ -545,8 +544,8 @@
       "p90": 1.5,
       "models": {
         "GFS": 1.2,
-        "UKMO": 1.4,
-        "ICON": 1.5
+        "UKMO": 0.2,
+        "ICON": 0.0
       }
     },
     {
@@ -556,8 +555,8 @@
       "p90": 1.5,
       "models": {
         "GFS": 1.6,
-        "UKMO": 1.8,
-        "ICON": 1.3
+        "UKMO": 0.2,
+        "ICON": 0.0
       }
     },
     {
@@ -567,8 +566,8 @@
       "p90": 1.5,
       "models": {
         "GFS": 1.9,
-        "UKMO": 2.2,
-        "ICON": 1.1
+        "UKMO": 0.2,
+        "ICON": 0.0
       }
     },
     {
@@ -578,8 +577,8 @@
       "p90": 1.2,
       "models": {
         "GFS": 2.1,
-        "UKMO": 2.5,
-        "ICON": 0.8
+        "UKMO": 0.3,
+        "ICON": 0.0
       }
     },
     {
@@ -589,8 +588,8 @@
       "p90": 1.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 2.9,
-        "ICON": 0.5
+        "UKMO": 0.4,
+        "ICON": 0.0
       }
     },
     {
@@ -600,8 +599,8 @@
       "p90": 1.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 3.3,
-        "ICON": 0.2
+        "UKMO": 0.5,
+        "ICON": 0.0
       }
     },
     {
@@ -611,8 +610,8 @@
       "p90": 1.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 3.7,
-        "ICON": 0.1
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -622,7 +621,7 @@
       "p90": 1.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 4.4,
+        "UKMO": 0.7,
         "ICON": 0.0
       }
     },
@@ -633,7 +632,7 @@
       "p90": 1.5,
       "models": {
         "GFS": 2.2,
-        "UKMO": 5.1,
+        "UKMO": 1.3,
         "ICON": 0.0
       }
     },
@@ -644,7 +643,7 @@
       "p90": 1.8,
       "models": {
         "GFS": 2.2,
-        "UKMO": 5.8,
+        "UKMO": 2.0,
         "ICON": 0.0
       }
     },
@@ -655,7 +654,7 @@
       "p90": 2.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 6.5,
+        "UKMO": 2.6,
         "ICON": 0.0
       }
     },
@@ -666,7 +665,7 @@
       "p90": 2.6,
       "models": {
         "GFS": 2.2,
-        "UKMO": 7.2,
+        "UKMO": 2.9,
         "ICON": 0.0
       }
     },
@@ -677,7 +676,7 @@
       "p90": 3.0,
       "models": {
         "GFS": 2.2,
-        "UKMO": 7.9,
+        "UKMO": 3.1,
         "ICON": 0.0
       }
     },
@@ -688,7 +687,7 @@
       "p90": 3.3,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.1,
+        "UKMO": 3.2,
         "ICON": 0.0
       }
     },
@@ -699,7 +698,7 @@
       "p90": 3.3,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.3,
+        "UKMO": 3.1,
         "ICON": 0.0
       }
     },
@@ -710,7 +709,7 @@
       "p90": 3.6,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.6,
+        "UKMO": 3.0,
         "ICON": 0.0
       }
     },
@@ -721,7 +720,7 @@
       "p90": 4.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.5,
+        "UKMO": 3.4,
         "ICON": 0.0
       }
     },
@@ -732,7 +731,7 @@
       "p90": 4.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.5,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -743,7 +742,7 @@
       "p90": 4.2,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.7,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -754,7 +753,7 @@
       "p90": 4.5,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.7,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -765,7 +764,7 @@
       "p90": 4.8,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.7,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -776,7 +775,7 @@
       "p90": 5.1,
       "models": {
         "GFS": 2.2,
-        "UKMO": 8.7,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -787,7 +786,7 @@
       "p90": 5.5,
       "models": {
         "GFS": 2.5,
-        "UKMO": 8.8,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -798,7 +797,7 @@
       "p90": 5.9,
       "models": {
         "GFS": 2.8,
-        "UKMO": 8.7,
+        "UKMO": 3.6,
         "ICON": 0.0
       }
     },
@@ -809,8 +808,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 3.1,
-        "UKMO": 8.5,
-        "ICON": 0.0
+        "UKMO": 3.6,
+        "ICON": 0.1
       }
     },
     {
@@ -820,8 +819,8 @@
       "p90": 6.1,
       "models": {
         "GFS": 3.4,
-        "UKMO": 8.0,
-        "ICON": 0.0
+        "UKMO": 3.6,
+        "ICON": 0.1
       }
     },
     {
@@ -831,8 +830,8 @@
       "p90": 6.2,
       "models": {
         "GFS": 3.9,
-        "UKMO": 7.5,
-        "ICON": 0.0
+        "UKMO": 3.6,
+        "ICON": 0.1
       }
     },
     {
@@ -842,8 +841,8 @@
       "p90": 6.3,
       "models": {
         "GFS": 4.4,
-        "UKMO": 7.2,
-        "ICON": 0.0
+        "UKMO": 3.5,
+        "ICON": 0.1
       }
     },
     {
@@ -853,8 +852,8 @@
       "p90": 6.3,
       "models": {
         "GFS": 4.5,
-        "UKMO": 6.8,
-        "ICON": 0.0
+        "UKMO": 3.4,
+        "ICON": 0.1
       }
     },
     {
@@ -864,8 +863,8 @@
       "p90": 6.3,
       "models": {
         "GFS": 4.5,
-        "UKMO": 6.4,
-        "ICON": 0.0
+        "UKMO": 3.3,
+        "ICON": 0.1
       }
     },
     {
@@ -875,8 +874,8 @@
       "p90": 6.3,
       "models": {
         "GFS": 4.5,
-        "UKMO": 6.0,
-        "ICON": 0.0
+        "UKMO": 3.2,
+        "ICON": 0.1
       }
     },
     {
@@ -886,8 +885,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 4.5,
-        "UKMO": 5.3,
-        "ICON": 0.0
+        "UKMO": 3.1,
+        "ICON": 0.1
       }
     },
     {
@@ -897,8 +896,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 4.5,
-        "UKMO": 4.6,
-        "ICON": 0.0
+        "UKMO": 2.5,
+        "ICON": 0.1
       }
     },
     {
@@ -908,8 +907,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 4.5,
-        "UKMO": 3.9,
-        "ICON": 0.0
+        "UKMO": 1.8,
+        "ICON": 0.1
       }
     },
     {
@@ -919,8 +918,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 4.5,
-        "UKMO": 3.2,
-        "ICON": 0.0
+        "UKMO": 1.2,
+        "ICON": 0.1
       }
     },
     {
@@ -930,8 +929,8 @@
       "p90": 5.5,
       "models": {
         "GFS": 4.5,
-        "UKMO": 2.5,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 0.1
       }
     },
     {
@@ -941,8 +940,8 @@
       "p90": 5.1,
       "models": {
         "GFS": 4.5,
-        "UKMO": 1.8,
-        "ICON": 0.0
+        "UKMO": 0.7,
+        "ICON": 0.1
       }
     },
     {
@@ -952,8 +951,8 @@
       "p90": 4.8,
       "models": {
         "GFS": 4.5,
-        "UKMO": 1.5,
-        "ICON": 0.0
+        "UKMO": 0.6,
+        "ICON": 0.1
       }
     },
     {
@@ -963,8 +962,8 @@
       "p90": 4.1,
       "models": {
         "GFS": 4.5,
-        "UKMO": 1.2,
-        "ICON": 0.0
+        "UKMO": 0.6,
+        "ICON": 0.1
       }
     },
     {
@@ -974,8 +973,8 @@
       "p90": 3.3,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.9,
-        "ICON": 0.0
+        "UKMO": 0.6,
+        "ICON": 0.1
       }
     },
     {
@@ -985,8 +984,8 @@
       "p90": 3.0,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.7,
-        "ICON": 0.0
+        "UKMO": 0.2,
+        "ICON": 0.1
       }
     },
     {
@@ -996,8 +995,8 @@
       "p90": 2.7,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.5,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -1007,8 +1006,8 @@
       "p90": 2.4,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -1018,8 +1017,8 @@
       "p90": 2.0,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -1029,8 +1028,8 @@
       "p90": 1.8,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -1040,8 +1039,8 @@
       "p90": 1.8,
       "models": {
         "GFS": 4.5,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -1051,8 +1050,8 @@
       "p90": 1.5,
       "models": {
         "GFS": 4.1,
-        "UKMO": 0.2,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -1062,8 +1061,8 @@
       "p90": 1.5,
       "models": {
         "GFS": 3.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
+        "UKMO": 0.0,
+        "ICON": 0.1
       }
     },
     {
@@ -1348,7 +1347,7 @@
       "p90": 1.3,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.1,
         "ICON": 0.0
       }
     },
@@ -1359,7 +1358,7 @@
       "p90": 1.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.2,
         "ICON": 0.0
       }
     },
@@ -1370,7 +1369,7 @@
       "p90": 2.4,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1381,7 +1380,7 @@
       "p90": 2.4,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1392,7 +1391,7 @@
       "p90": 2.8,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1403,7 +1402,7 @@
       "p90": 3.3,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1414,7 +1413,7 @@
       "p90": 4.2,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1425,7 +1424,7 @@
       "p90": 4.2,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1436,7 +1435,7 @@
       "p90": 4.2,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1447,7 +1446,7 @@
       "p90": 4.3,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1458,7 +1457,7 @@
       "p90": 5.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1469,7 +1468,7 @@
       "p90": 5.7,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1480,8 +1479,8 @@
       "p90": 5.7,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.1
       }
     },
     {
@@ -1491,8 +1490,8 @@
       "p90": 5.7,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.2
       }
     },
     {
@@ -1502,8 +1501,8 @@
       "p90": 5.7,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -1513,8 +1512,8 @@
       "p90": 5.8,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -1524,8 +1523,8 @@
       "p90": 5.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -1535,8 +1534,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -1546,8 +1545,8 @@
       "p90": 6.2,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -1557,8 +1556,8 @@
       "p90": 6.4,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -1568,8 +1567,8 @@
       "p90": 6.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "UKMO": 0.3,
+        "ICON": 0.3
       }
     },
     {
@@ -1579,8 +1578,8 @@
       "p90": 6.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.1,
-        "ICON": 0.0
+        "UKMO": 0.6,
+        "ICON": 0.3
       }
     },
     {
@@ -1590,8 +1589,8 @@
       "p90": 6.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.2,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 0.3
       }
     },
     {
@@ -1601,8 +1600,8 @@
       "p90": 6.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "UKMO": 1.2,
+        "ICON": 0.3
       }
     },
     {
@@ -1612,8 +1611,8 @@
       "p90": 5.6,
       "models": {
         "GFS": 0.3,
-        "UKMO": 0.4,
-        "ICON": 0.0
+        "UKMO": 1.1,
+        "ICON": 0.8
       }
     },
     {
@@ -1623,8 +1622,8 @@
       "p90": 5.2,
       "models": {
         "GFS": 0.6,
-        "UKMO": 0.5,
-        "ICON": 0.0
+        "UKMO": 1.0,
+        "ICON": 1.3
       }
     },
     {
@@ -1634,8 +1633,8 @@
       "p90": 5.1,
       "models": {
         "GFS": 0.9,
-        "UKMO": 0.6,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1645,8 +1644,8 @@
       "p90": 5.0,
       "models": {
         "GFS": 0.9,
-        "UKMO": 0.7,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1656,8 +1655,8 @@
       "p90": 5.3,
       "models": {
         "GFS": 0.9,
-        "UKMO": 0.8,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1668,7 +1667,7 @@
       "models": {
         "GFS": 0.9,
         "UKMO": 0.9,
-        "ICON": 0.0
+        "ICON": 1.8
       }
     },
     {
@@ -1678,8 +1677,8 @@
       "p90": 6.4,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.0,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1689,8 +1688,8 @@
       "p90": 6.5,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.1,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1700,8 +1699,8 @@
       "p90": 5.7,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.2,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1711,8 +1710,8 @@
       "p90": 5.5,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.3,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1722,8 +1721,8 @@
       "p90": 5.3,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.4,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1733,8 +1732,8 @@
       "p90": 5.1,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.5,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.8
       }
     },
     {
@@ -1744,8 +1743,8 @@
       "p90": 4.8,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.6,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.7
       }
     },
     {
@@ -1755,8 +1754,8 @@
       "p90": 5.4,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.7,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.6
       }
     },
     {
@@ -1766,8 +1765,8 @@
       "p90": 6.3,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -1777,8 +1776,8 @@
       "p90": 6.5,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -1788,8 +1787,8 @@
       "p90": 6.5,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -1799,8 +1798,8 @@
       "p90": 5.7,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.0
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -1810,8 +1809,8 @@
       "p90": 6.0,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.2
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -1821,8 +1820,8 @@
       "p90": 6.3,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.4
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -1832,8 +1831,8 @@
       "p90": 5.4,
       "models": {
         "GFS": 0.9,
-        "UKMO": 1.8,
-        "ICON": 0.6
+        "UKMO": 0.9,
+        "ICON": 1.5
       }
     },
     {
@@ -1843,8 +1842,8 @@
       "p90": 4.9,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": 2.2
+        "UKMO": 0.7,
+        "ICON": 1.5
       }
     },
     {
@@ -1854,8 +1853,8 @@
       "p90": 5.3,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": 3.8
+        "UKMO": 0.5,
+        "ICON": 1.5
       }
     },
     {
@@ -1865,8 +1864,8 @@
       "p90": 5.4,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": 5.4
+        "UKMO": 0.3,
+        "ICON": 1.5
       }
     },
     {
@@ -1876,8 +1875,8 @@
       "p90": 4.4,
       "models": {
         "GFS": 0.6,
-        "UKMO": null,
-        "ICON": 6.9
+        "UKMO": 0.4,
+        "ICON": 1.0
       }
     },
     {
@@ -1887,8 +1886,8 @@
       "p90": 3.8,
       "models": {
         "GFS": 0.3,
-        "UKMO": null,
-        "ICON": 8.4
+        "UKMO": 0.5,
+        "ICON": 0.5
       }
     },
     {
@@ -1898,8 +1897,8 @@
       "p90": 3.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": null,
-        "ICON": 9.9
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -1909,8 +1908,8 @@
       "p90": 3.9,
       "models": {
         "GFS": 0.2,
-        "UKMO": null,
-        "ICON": 10.0
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -1920,8 +1919,8 @@
       "p90": 3.8,
       "models": {
         "GFS": 0.4,
-        "UKMO": null,
-        "ICON": 10.1
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -1931,8 +1930,8 @@
       "p90": 3.3,
       "models": {
         "GFS": 0.6,
-        "UKMO": null,
-        "ICON": 10.2
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -1942,8 +1941,8 @@
       "p90": 3.4,
       "models": {
         "GFS": 0.7,
-        "UKMO": null,
-        "ICON": 10.2
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -1953,8 +1952,8 @@
       "p90": 3.3,
       "models": {
         "GFS": 0.8,
-        "UKMO": null,
-        "ICON": 10.2
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -1964,8 +1963,8 @@
       "p90": 3.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": 10.2
+        "UKMO": 0.6,
+        "ICON": 0.0
       }
     },
     {
@@ -1975,8 +1974,8 @@
       "p90": 3.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 0.7,
+        "ICON": 0.0
       }
     },
     {
@@ -1986,8 +1985,8 @@
       "p90": 3.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 0.8,
+        "ICON": 0.0
       }
     },
     {
@@ -1997,8 +1996,8 @@
       "p90": 3.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 0.9,
+        "ICON": 0.0
       }
     },
     {
@@ -2008,8 +2007,8 @@
       "p90": 3.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 1.0,
+        "ICON": 0.0
       }
     },
     {
@@ -2019,8 +2018,8 @@
       "p90": 3.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 1.1,
+        "ICON": 0.0
       }
     },
     {
@@ -2030,8 +2029,8 @@
       "p90": 3.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 1.2,
+        "ICON": 0.0
       }
     },
     {
@@ -2041,8 +2040,8 @@
       "p90": 4.0,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 2.1,
+        "ICON": 0.0
       }
     },
     {
@@ -2052,8 +2051,8 @@
       "p90": 3.8,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 3.0,
+        "ICON": 0.0
       }
     },
     {
@@ -2063,8 +2062,8 @@
       "p90": 4.2,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 3.9,
+        "ICON": 0.0
       }
     },
     {
@@ -2074,8 +2073,8 @@
       "p90": 4.6,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 4.8,
+        "ICON": 0.0
       }
     },
     {
@@ -2085,8 +2084,8 @@
       "p90": 4.4,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 5.7,
+        "ICON": 0.0
       }
     },
     {
@@ -2096,8 +2095,8 @@
       "p90": 4.2,
       "models": {
         "GFS": 0.9,
-        "UKMO": null,
-        "ICON": null
+        "UKMO": 6.6,
+        "ICON": 0.0
       }
     },
     {
@@ -2108,7 +2107,7 @@
       "models": {
         "GFS": 1.5,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2119,7 +2118,7 @@
       "models": {
         "GFS": 2.1,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2130,7 +2129,7 @@
       "models": {
         "GFS": 2.7,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2141,7 +2140,7 @@
       "models": {
         "GFS": 3.2,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2152,7 +2151,7 @@
       "models": {
         "GFS": 3.7,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2163,7 +2162,7 @@
       "models": {
         "GFS": 4.2,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2174,7 +2173,7 @@
       "models": {
         "GFS": 4.5,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2185,7 +2184,7 @@
       "models": {
         "GFS": 4.8,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2196,7 +2195,7 @@
       "models": {
         "GFS": 5.1,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.0
       }
     },
     {
@@ -2207,7 +2206,7 @@
       "models": {
         "GFS": 6.4,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.2
       }
     },
     {
@@ -2218,7 +2217,7 @@
       "models": {
         "GFS": 7.7,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.4
       }
     },
     {
@@ -2229,7 +2228,7 @@
       "models": {
         "GFS": 9.0,
         "UKMO": null,
-        "ICON": null
+        "ICON": 0.6
       }
     },
     {
@@ -2925,19 +2924,19 @@
         "day": "Tuesday 18 August",
         "time": "1:00 PM",
         "timestamp_local": "2026-08-18T13:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 20.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Tuesday 18 August",
         "time": "4:00 PM",
         "timestamp_local": "2026-08-18T16:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 10.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Tuesday 18 August",
@@ -3396,7 +3395,7 @@
     "ecmwf_ensemble": {
       "status": "ok",
       "label": "ECMWF ensemble",
-      "retrieved_at_utc": "2026-08-18T04:56:32+00:00",
+      "retrieved_at_utc": "2026-08-18T10:54:16+00:00",
       "model_run_utc": null,
       "centre": "ECMWF",
       "model_id": "ecmwf_ifs025",
@@ -3413,7 +3412,7 @@
     "gfs": {
       "status": "ok",
       "label": "GFS",
-      "retrieved_at_utc": "2026-08-18T04:56:33+00:00",
+      "retrieved_at_utc": "2026-08-18T10:54:17+00:00",
       "model_run_utc": null,
       "centre": "NOAA, United States",
       "model_id": "gfs_global",
@@ -3430,7 +3429,7 @@
     "ukmo": {
       "status": "ok",
       "label": "UKMO",
-      "retrieved_at_utc": "2026-08-18T04:56:33+00:00",
+      "retrieved_at_utc": "2026-08-18T10:54:18+00:00",
       "model_run_utc": null,
       "centre": "Met Office, United Kingdom",
       "model_id": "ukmo_global_deterministic_10km",
@@ -3441,13 +3440,13 @@
         "distance_km": 10.1
       },
       "units": "mm",
-      "valid_steps": 169,
+      "valid_steps": 193,
       "covers_peak_window": true
     },
     "icon": {
       "status": "ok",
       "label": "ICON",
-      "retrieved_at_utc": "2026-08-18T04:56:34+00:00",
+      "retrieved_at_utc": "2026-08-18T10:54:18+00:00",
       "model_run_utc": null,
       "centre": "DWD, Germany",
       "model_id": "icon_global",
@@ -3458,19 +3457,19 @@
         "distance_km": 9.5
       },
       "units": "mm",
-      "valid_steps": 181,
+      "valid_steps": 205,
       "covers_peak_window": true
     },
     "bom_detailed": {
       "status": "ok",
       "label": "BOM detailed forecast",
-      "retrieved_at_utc": "2026-08-18T04:56:34+00:00",
+      "retrieved_at_utc": "2026-08-18T10:54:19+00:00",
       "model_run_utc": null,
       "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/",
       "location": "Coolangatta",
       "days_found": 7,
       "steps_found": 56,
-      "steps_with_amounts": 13,
+      "steps_with_amounts": 11,
       "usage_note": "Display only. Exceedance amounts are quantiles and cannot be summed to a 24-hour total."
     }
   },
