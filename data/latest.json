@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-28T21:13:32+00:00",
-  "generated_at_local": "2026-08-29T07:13:32+10:00",
+  "generated_at_utc": "2026-08-28T21:49:14+00:00",
+  "generated_at_local": "2026-08-29T07:49:14+10:00",
   "location": {
     "name": "Gold Coast Airport (Coolangatta)",
     "latitude": -28.1644,
@@ -3393,7 +3393,7 @@
     "ecmwf_ensemble": {
       "status": "ok",
       "label": "ECMWF ensemble",
-      "retrieved_at_utc": "2026-08-28T21:13:33+00:00",
+      "retrieved_at_utc": "2026-08-28T21:49:15+00:00",
       "model_run_utc": null,
       "centre": "ECMWF",
       "model_id": "ecmwf_ifs025",
@@ -3410,7 +3410,7 @@
     "gfs": {
       "status": "ok",
       "label": "GFS",
-      "retrieved_at_utc": "2026-08-28T21:13:33+00:00",
+      "retrieved_at_utc": "2026-08-28T21:49:15+00:00",
       "model_run_utc": null,
       "centre": "NOAA, United States",
       "model_id": "gfs_global",
@@ -3427,7 +3427,7 @@
     "ukmo": {
       "status": "ok",
       "label": "UKMO",
-      "retrieved_at_utc": "2026-08-28T21:13:33+00:00",
+      "retrieved_at_utc": "2026-08-28T21:49:16+00:00",
       "model_run_utc": null,
       "centre": "Met Office, United Kingdom",
       "model_id": "ukmo_global_deterministic_10km",
@@ -3444,7 +3444,7 @@
     "icon": {
       "status": "ok",
       "label": "ICON",
-      "retrieved_at_utc": "2026-08-28T21:13:34+00:00",
+      "retrieved_at_utc": "2026-08-28T21:49:17+00:00",
       "model_run_utc": null,
       "centre": "DWD, Germany",
       "model_id": "icon_global",
@@ -3461,7 +3461,7 @@
     "bom_detailed": {
       "status": "ok",
       "label": "BOM detailed forecast",
-      "retrieved_at_utc": "2026-08-28T21:13:35+00:00",
+      "retrieved_at_utc": "2026-08-28T21:49:17+00:00",
       "model_run_utc": null,
       "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/",
       "location": "Coolangatta",
