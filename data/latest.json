@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-01T21:01:25+00:00",
-  "generated_at_local": "2026-09-02T07:01:25+10:00",
+  "generated_at_utc": "2026-09-02T03:12:14+00:00",
+  "generated_at_local": "2026-09-02T13:12:14+10:00",
   "location": {
     "name": "Gold Coast Airport (Coolangatta)",
     "latitude": -28.1644,
@@ -15,14 +15,14 @@
   "headline": {
     "status_code": "white",
     "status_text": "No significant \u226510 mm event identified",
-    "window_start_local": "2026-09-10T09:00:00+10:00",
-    "window_end_local": "2026-09-11T09:00:00+10:00",
-    "ecmwf_mean": 4.0,
+    "window_start_local": "2026-09-10T16:00:00+10:00",
+    "window_end_local": "2026-09-11T16:00:00+10:00",
+    "ecmwf_mean": 4.4,
     "ecmwf_p10": 0.0,
     "ecmwf_p90": 7.2,
-    "members_over": 4,
+    "members_over": 5,
     "members_total": 51,
-    "percent_over": 8
+    "percent_over": 10
   },
   "agreement": {
     "sources_indicating": [],
@@ -39,23 +39,6 @@
     "reasoning": "No source indicates \u226510 mm in any 24-hour window. 2 of 4 sources cover this window (UKMO, ICON do not)."
   },
   "daily_comparison": [
-    {
-      "window_start_local": "2026-08-31T09:00:00+10:00",
-      "window_end_local": "2026-09-01T09:00:00+10:00",
-      "day_label": "Mon 31 Aug",
-      "window_label": "09:00 \u2192 09:00",
-      "ecmwf_mean": 0.8,
-      "ecmwf_p10": 0.0,
-      "ecmwf_p90": 1.7,
-      "members_over": 0,
-      "members_total": 51,
-      "percent_over": 0,
-      "models": {
-        "GFS": 0.0,
-        "UKMO": 0.2,
-        "ICON": 0.0
-      }
-    },
     {
       "window_start_local": "2026-09-01T09:00:00+10:00",
       "window_end_local": "2026-09-02T09:00:00+10:00",
@@ -170,7 +153,7 @@
       "members_total": 51,
       "percent_over": 0,
       "models": {
-        "GFS": 0.2,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -187,7 +170,7 @@
       "members_total": 51,
       "percent_over": 2,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -204,7 +187,7 @@
       "members_total": 51,
       "percent_over": 8,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.8,
         "UKMO": null,
         "ICON": null
       }
@@ -221,277 +204,30 @@
       "members_total": 51,
       "percent_over": 8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.7,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_start_local": "2026-09-11T09:00:00+10:00",
+      "window_end_local": "2026-09-12T09:00:00+10:00",
+      "day_label": "Fri 11 Sep",
+      "window_label": "09:00 \u2192 09:00",
+      "ecmwf_mean": 3.0,
+      "ecmwf_p10": 0.0,
+      "ecmwf_p90": 5.9,
+      "members_over": 4,
+      "members_total": 51,
+      "percent_over": 8,
+      "models": {
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
     }
   ],
   "rolling_curve": [
-    {
-      "window_end_local": "2026-09-01T09:00:00+10:00",
-      "mean": 0.84,
-      "p10": 0.0,
-      "p90": 1.7,
-      "models": {
-        "GFS": 0.0,
-        "UKMO": 0.2,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T10:00:00+10:00",
-      "mean": 0.89,
-      "p10": 0.0,
-      "p90": 1.8,
-      "models": {
-        "GFS": 0.0,
-        "UKMO": 0.2,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T11:00:00+10:00",
-      "mean": 1.01,
-      "p10": 0.2,
-      "p90": 2.0,
-      "models": {
-        "GFS": 0.1,
-        "UKMO": 0.3,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T12:00:00+10:00",
-      "mean": 1.13,
-      "p10": 0.4,
-      "p90": 2.1,
-      "models": {
-        "GFS": 0.3,
-        "UKMO": 0.3,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T13:00:00+10:00",
-      "mean": 1.25,
-      "p10": 0.3,
-      "p90": 2.1,
-      "models": {
-        "GFS": 0.4,
-        "UKMO": 0.3,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T14:00:00+10:00",
-      "mean": 1.15,
-      "p10": 0.3,
-      "p90": 1.9,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.2,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T15:00:00+10:00",
-      "mean": 1.06,
-      "p10": 0.3,
-      "p90": 1.8,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T16:00:00+10:00",
-      "mean": 0.96,
-      "p10": 0.3,
-      "p90": 1.8,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T17:00:00+10:00",
-      "mean": 0.95,
-      "p10": 0.3,
-      "p90": 1.7,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T18:00:00+10:00",
-      "mean": 0.94,
-      "p10": 0.3,
-      "p90": 1.6,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T19:00:00+10:00",
-      "mean": 0.92,
-      "p10": 0.3,
-      "p90": 1.5,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T20:00:00+10:00",
-      "mean": 0.91,
-      "p10": 0.3,
-      "p90": 1.5,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T21:00:00+10:00",
-      "mean": 0.9,
-      "p10": 0.3,
-      "p90": 1.5,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T22:00:00+10:00",
-      "mean": 0.89,
-      "p10": 0.3,
-      "p90": 1.5,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-01T23:00:00+10:00",
-      "mean": 0.87,
-      "p10": 0.3,
-      "p90": 1.4,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T00:00:00+10:00",
-      "mean": 0.85,
-      "p10": 0.3,
-      "p90": 1.3,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T01:00:00+10:00",
-      "mean": 0.84,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T02:00:00+10:00",
-      "mean": 0.83,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T03:00:00+10:00",
-      "mean": 0.83,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T04:00:00+10:00",
-      "mean": 0.82,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T05:00:00+10:00",
-      "mean": 0.81,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T06:00:00+10:00",
-      "mean": 0.8,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T07:00:00+10:00",
-      "mean": 0.79,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
-    {
-      "window_end_local": "2026-09-02T08:00:00+10:00",
-      "mean": 0.74,
-      "p10": 0.3,
-      "p90": 1.2,
-      "models": {
-        "GFS": 0.5,
-        "UKMO": 0.1,
-        "ICON": 0.0
-      }
-    },
     {
       "window_end_local": "2026-09-02T09:00:00+10:00",
       "mean": 0.69,
@@ -2071,7 +1807,7 @@
       "p10": 0.0,
       "p90": 2.7,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -2082,7 +1818,7 @@
       "p10": 0.0,
       "p90": 2.7,
       "models": {
-        "GFS": 0.2,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -2093,7 +1829,7 @@
       "p10": 0.0,
       "p90": 2.7,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -2104,7 +1840,7 @@
       "p10": 0.0,
       "p90": 3.1,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.1,
         "ICON": 0.0
       }
@@ -2115,7 +1851,7 @@
       "p10": 0.0,
       "p90": 3.1,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.2,
         "ICON": 0.0
       }
@@ -2126,7 +1862,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.3,
         "ICON": 0.0
       }
@@ -2137,7 +1873,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.4,
         "ICON": 0.0
       }
@@ -2148,7 +1884,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.5,
         "ICON": 0.0
       }
@@ -2159,7 +1895,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.6,
         "ICON": 0.0
       }
@@ -2170,7 +1906,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.6,
         "ICON": 0.0
       }
@@ -2181,7 +1917,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.6,
         "ICON": 0.0
       }
@@ -2192,7 +1928,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.6,
         "ICON": 0.0
       }
@@ -2203,7 +1939,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.6,
         "ICON": 0.0
       }
@@ -2214,7 +1950,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.6,
         "ICON": 0.0
       }
@@ -2225,7 +1961,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.6,
         "ICON": 0.0
       }
@@ -2236,7 +1972,7 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2247,7 +1983,7 @@
       "p10": 0.0,
       "p90": 3.2,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2258,7 +1994,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2269,7 +2005,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2280,7 +2016,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2291,7 +2027,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2302,7 +2038,7 @@
       "p10": 0.0,
       "p90": 2.9,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2313,7 +2049,7 @@
       "p10": 0.0,
       "p90": 2.8,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2324,7 +2060,7 @@
       "p10": 0.0,
       "p90": 2.7,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2335,7 +2071,7 @@
       "p10": 0.0,
       "p90": 2.8,
       "models": {
-        "GFS": 0.2,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2346,7 +2082,7 @@
       "p10": 0.0,
       "p90": 2.9,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2500,7 +2236,7 @@
       "p10": 0.0,
       "p90": 7.0,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2511,7 +2247,7 @@
       "p10": 0.0,
       "p90": 7.0,
       "models": {
-        "GFS": 0.2,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2522,7 +2258,7 @@
       "p10": 0.0,
       "p90": 7.8,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2533,7 +2269,7 @@
       "p10": 0.0,
       "p90": 8.2,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.1,
         "UKMO": null,
         "ICON": null
       }
@@ -2544,7 +2280,7 @@
       "p10": 0.0,
       "p90": 8.3,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2566,7 +2302,7 @@
       "p10": 0.0,
       "p90": 8.5,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2577,7 +2313,7 @@
       "p10": 0.0,
       "p90": 8.6,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.5,
         "UKMO": null,
         "ICON": null
       }
@@ -2588,7 +2324,7 @@
       "p10": 0.0,
       "p90": 8.7,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2599,7 +2335,7 @@
       "p10": 0.0,
       "p90": 9.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.7,
         "UKMO": null,
         "ICON": null
       }
@@ -2610,7 +2346,7 @@
       "p10": 0.0,
       "p90": 8.9,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.8,
         "UKMO": null,
         "ICON": null
       }
@@ -2621,7 +2357,7 @@
       "p10": 0.0,
       "p90": 9.6,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2632,7 +2368,7 @@
       "p10": 0.0,
       "p90": 10.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2643,7 +2379,7 @@
       "p10": 0.0,
       "p90": 10.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2654,7 +2390,7 @@
       "p10": 0.0,
       "p90": 9.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2665,7 +2401,7 @@
       "p10": 0.0,
       "p90": 9.4,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2676,7 +2412,7 @@
       "p10": 0.0,
       "p90": 9.5,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2687,7 +2423,7 @@
       "p10": 0.0,
       "p90": 9.6,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2698,7 +2434,7 @@
       "p10": 0.0,
       "p90": 10.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2709,7 +2445,7 @@
       "p10": 0.0,
       "p90": 10.4,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2720,7 +2456,7 @@
       "p10": 0.0,
       "p90": 10.2,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2731,7 +2467,7 @@
       "p10": 0.0,
       "p90": 10.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 1.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2742,7 +2478,7 @@
       "p10": 0.0,
       "p90": 9.8,
       "models": {
-        "GFS": 0.3,
+        "GFS": 1.1,
         "UKMO": null,
         "ICON": null
       }
@@ -2753,7 +2489,7 @@
       "p10": 0.0,
       "p90": 9.6,
       "models": {
-        "GFS": 0.3,
+        "GFS": 1.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2764,7 +2500,7 @@
       "p10": 0.0,
       "p90": 9.0,
       "models": {
-        "GFS": 0.2,
+        "GFS": 1.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2775,7 +2511,7 @@
       "p10": 0.0,
       "p90": 8.4,
       "models": {
-        "GFS": 0.1,
+        "GFS": 1.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2786,7 +2522,7 @@
       "p10": 0.0,
       "p90": 7.8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.5,
         "UKMO": null,
         "ICON": null
       }
@@ -2797,7 +2533,7 @@
       "p10": 0.0,
       "p90": 7.8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2808,7 +2544,7 @@
       "p10": 0.0,
       "p90": 7.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2819,7 +2555,7 @@
       "p10": 0.0,
       "p90": 7.2,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2830,7 +2566,7 @@
       "p10": 0.0,
       "p90": 7.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.1,
         "UKMO": null,
         "ICON": null
       }
@@ -2841,7 +2577,7 @@
       "p10": 0.0,
       "p90": 7.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2852,7 +2588,7 @@
       "p10": 0.0,
       "p90": 7.2,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2863,7 +2599,7 @@
       "p10": 0.0,
       "p90": 7.2,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.8,
         "UKMO": null,
         "ICON": null
       }
@@ -2874,7 +2610,271 @@
       "p10": 0.0,
       "p90": 7.2,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.7,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T10:00:00+10:00",
+      "mean": 4.15,
+      "p10": 0.0,
+      "p90": 7.2,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T11:00:00+10:00",
+      "mean": 4.19,
+      "p10": 0.0,
+      "p90": 7.1,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T12:00:00+10:00",
+      "mean": 4.22,
+      "p10": 0.0,
+      "p90": 7.6,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T13:00:00+10:00",
+      "mean": 4.26,
+      "p10": 0.0,
+      "p90": 7.5,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T14:00:00+10:00",
+      "mean": 4.29,
+      "p10": 0.0,
+      "p90": 7.2,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T15:00:00+10:00",
+      "mean": 4.33,
+      "p10": 0.0,
+      "p90": 7.1,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T16:00:00+10:00",
+      "mean": 4.36,
+      "p10": 0.0,
+      "p90": 7.2,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T17:00:00+10:00",
+      "mean": 4.32,
+      "p10": 0.0,
+      "p90": 7.3,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T18:00:00+10:00",
+      "mean": 4.28,
+      "p10": 0.0,
+      "p90": 8.0,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T19:00:00+10:00",
+      "mean": 4.24,
+      "p10": 0.0,
+      "p90": 8.7,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T20:00:00+10:00",
+      "mean": 4.19,
+      "p10": 0.0,
+      "p90": 6.6,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T21:00:00+10:00",
+      "mean": 4.15,
+      "p10": 0.0,
+      "p90": 6.7,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T22:00:00+10:00",
+      "mean": 4.11,
+      "p10": 0.0,
+      "p90": 7.2,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-11T23:00:00+10:00",
+      "mean": 4.01,
+      "p10": 0.0,
+      "p90": 7.1,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T00:00:00+10:00",
+      "mean": 3.91,
+      "p10": 0.0,
+      "p90": 7.0,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T01:00:00+10:00",
+      "mean": 3.81,
+      "p10": 0.0,
+      "p90": 6.9,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T02:00:00+10:00",
+      "mean": 3.71,
+      "p10": 0.0,
+      "p90": 6.8,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T03:00:00+10:00",
+      "mean": 3.61,
+      "p10": 0.0,
+      "p90": 6.7,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T04:00:00+10:00",
+      "mean": 3.51,
+      "p10": 0.0,
+      "p90": 6.6,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T05:00:00+10:00",
+      "mean": 3.4,
+      "p10": 0.0,
+      "p90": 6.4,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T06:00:00+10:00",
+      "mean": 3.3,
+      "p10": 0.0,
+      "p90": 6.2,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T07:00:00+10:00",
+      "mean": 3.19,
+      "p10": 0.0,
+      "p90": 6.9,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T08:00:00+10:00",
+      "mean": 3.09,
+      "p10": 0.0,
+      "p90": 7.8,
+      "models": {
+        "GFS": 0.6,
+        "UKMO": null,
+        "ICON": null
+      }
+    },
+    {
+      "window_end_local": "2026-09-12T09:00:00+10:00",
+      "mean": 2.99,
+      "p10": 0.0,
+      "p90": 5.9,
+      "models": {
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2905,19 +2905,19 @@
         "day": "Wednesday 2 September",
         "time": "7:00 AM",
         "timestamp_local": "2026-09-02T07:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 0.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Wednesday 2 September",
         "time": "10:00 AM",
         "timestamp_local": "2026-09-02T10:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 0.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Wednesday 2 September",
@@ -3061,7 +3061,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 0.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Friday 4 September",
@@ -3097,7 +3097,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Saturday 5 September",
@@ -3205,7 +3205,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Sunday 6 September",
@@ -3223,7 +3223,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 0.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Sunday 6 September",
@@ -3286,7 +3286,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Monday 7 September",
@@ -3295,7 +3295,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Monday 7 September",
@@ -3304,7 +3304,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Monday 7 September",
@@ -3313,7 +3313,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Tuesday 8 September",
@@ -3322,7 +3322,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Tuesday 8 September",
@@ -3349,7 +3349,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 30.0
       },
       {
         "day": "Tuesday 8 September",
@@ -3367,7 +3367,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 20.0
       },
       {
         "day": "Tuesday 8 September",
@@ -3376,7 +3376,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 20.0
       },
       {
         "day": "Tuesday 8 September",
@@ -3385,7 +3385,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 20.0
       }
     ],
     "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/"
@@ -3394,7 +3394,7 @@
     "ecmwf_ensemble": {
       "status": "ok",
       "label": "ECMWF ensemble",
-      "retrieved_at_utc": "2026-09-01T21:01:26+00:00",
+      "retrieved_at_utc": "2026-09-02T03:12:15+00:00",
       "model_run_utc": null,
       "centre": "ECMWF",
       "model_id": "ecmwf_ifs025",
@@ -3411,7 +3411,7 @@
     "gfs": {
       "status": "ok",
       "label": "GFS",
-      "retrieved_at_utc": "2026-09-01T21:01:26+00:00",
+      "retrieved_at_utc": "2026-09-02T03:12:15+00:00",
       "model_run_utc": null,
       "centre": "NOAA, United States",
       "model_id": "gfs_global",
@@ -3428,7 +3428,7 @@
     "ukmo": {
       "status": "ok",
       "label": "UKMO",
-      "retrieved_at_utc": "2026-09-01T21:01:28+00:00",
+      "retrieved_at_utc": "2026-09-02T03:12:16+00:00",
       "model_run_utc": null,
       "centre": "Met Office, United Kingdom",
       "model_id": "ukmo_global_deterministic_10km",
@@ -3439,13 +3439,13 @@
         "distance_km": 10.1
       },
       "units": "mm",
-      "valid_steps": 205,
+      "valid_steps": 181,
       "covers_peak_window": false
     },
     "icon": {
       "status": "ok",
       "label": "ICON",
-      "retrieved_at_utc": "2026-09-01T21:01:29+00:00",
+      "retrieved_at_utc": "2026-09-02T03:12:16+00:00",
       "model_run_utc": null,
       "centre": "DWD, Germany",
       "model_id": "icon_global",
@@ -3456,19 +3456,19 @@
         "distance_km": 9.5
       },
       "units": "mm",
-      "valid_steps": 217,
+      "valid_steps": 193,
       "covers_peak_window": false
     },
     "bom_detailed": {
       "status": "ok",
       "label": "BOM detailed forecast",
-      "retrieved_at_utc": "2026-09-01T21:01:30+00:00",
+      "retrieved_at_utc": "2026-09-02T03:12:17+00:00",
       "model_run_utc": null,
       "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/",
       "location": "Coolangatta",
       "days_found": 7,
       "steps_found": 56,
-      "steps_with_amounts": 15,
+      "steps_with_amounts": 13,
       "usage_note": "Display only. Exceedance amounts are quantiles and cannot be summed to a 24-hour total."
     }
   },
