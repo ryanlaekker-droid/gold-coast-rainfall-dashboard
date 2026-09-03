@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-03T05:26:14+00:00",
-  "generated_at_local": "2026-09-03T15:26:14+10:00",
+  "generated_at_utc": "2026-09-03T09:36:18+00:00",
+  "generated_at_local": "2026-09-03T19:36:18+10:00",
   "location": {
     "name": "Gold Coast Airport (Coolangatta)",
     "latitude": -28.1644,
@@ -29,14 +29,13 @@
     "sources_assessed": [
       "ECMWF ensemble",
       "GFS",
+      "UKMO",
       "ICON"
     ],
-    "sources_unassessed": [
-      "UKMO"
-    ],
-    "coverage": "3 of 4 sources cover this window (UKMO do not).",
+    "sources_unassessed": [],
+    "coverage": "All 4 sources cover this window.",
     "level": "none",
-    "reasoning": "No source indicates \u226510 mm in any 24-hour window. 3 of 4 sources cover this window (UKMO do not)."
+    "reasoning": "No source indicates \u226510 mm in any 24-hour window. All 4 sources cover this window."
   },
   "daily_comparison": [
     {
@@ -137,7 +136,7 @@
       "percent_over": 0,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -153,8 +152,8 @@
       "members_total": 51,
       "percent_over": 2,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -170,8 +169,8 @@
       "members_total": 51,
       "percent_over": 0,
       "models": {
-        "GFS": 0.3,
-        "UKMO": null,
+        "GFS": 2.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -187,7 +186,7 @@
       "members_total": 51,
       "percent_over": 0,
       "models": {
-        "GFS": 1.2,
+        "GFS": 1.6,
         "UKMO": null,
         "ICON": null
       }
@@ -221,7 +220,7 @@
       "members_total": 51,
       "percent_over": 2,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.4,
         "UKMO": null,
         "ICON": null
       }
@@ -1445,7 +1444,7 @@
       "p90": 0.3,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.1,
         "ICON": 0.0
       }
     },
@@ -1456,7 +1455,7 @@
       "p90": 0.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.2,
         "ICON": 0.0
       }
     },
@@ -1467,7 +1466,7 @@
       "p90": 0.6,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.3,
         "ICON": 0.0
       }
     },
@@ -1478,7 +1477,7 @@
       "p90": 0.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.5,
         "ICON": 0.0
       }
     },
@@ -1489,7 +1488,7 @@
       "p90": 0.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.7,
         "ICON": 0.0
       }
     },
@@ -1500,7 +1499,7 @@
       "p90": 0.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 0.9,
         "ICON": 0.0
       }
     },
@@ -1511,7 +1510,7 @@
       "p90": 0.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 1.0,
         "ICON": 0.0
       }
     },
@@ -1522,7 +1521,7 @@
       "p90": 1.1,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 1.1,
         "ICON": 0.0
       }
     },
@@ -1533,7 +1532,7 @@
       "p90": 1.2,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1544,7 +1543,7 @@
       "p90": 1.3,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1555,7 +1554,7 @@
       "p90": 1.4,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1566,7 +1565,7 @@
       "p90": 1.5,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.0,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1577,7 +1576,7 @@
       "p90": 1.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.1,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1588,7 +1587,7 @@
       "p90": 2.9,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.2,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1599,7 +1598,7 @@
       "p90": 3.3,
       "models": {
         "GFS": 0.0,
-        "UKMO": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1609,8 +1608,8 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.1,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1620,8 +1619,8 @@
       "p10": 0.0,
       "p90": 3.9,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.2,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1631,8 +1630,8 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1642,8 +1641,8 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1653,8 +1652,8 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1664,8 +1663,8 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1675,8 +1674,8 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1686,8 +1685,8 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1697,8 +1696,8 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.2,
         "ICON": 0.0
       }
     },
@@ -1708,8 +1707,8 @@
       "p10": 0.0,
       "p90": 3.9,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.1,
         "ICON": 0.0
       }
     },
@@ -1719,8 +1718,8 @@
       "p10": 0.0,
       "p90": 3.9,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 1.0,
         "ICON": 0.0
       }
     },
@@ -1730,8 +1729,8 @@
       "p10": 0.0,
       "p90": 3.9,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.9,
         "ICON": 0.0
       }
     },
@@ -1741,8 +1740,8 @@
       "p10": 0.0,
       "p90": 3.8,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.7,
         "ICON": 0.0
       }
     },
@@ -1752,8 +1751,8 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.5,
         "ICON": 0.0
       }
     },
@@ -1763,7 +1762,7 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": 0.3,
         "ICON": 0.0
       }
@@ -1774,8 +1773,8 @@
       "p10": 0.0,
       "p90": 3.2,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.2,
         "ICON": 0.0
       }
     },
@@ -1785,8 +1784,8 @@
       "p10": 0.0,
       "p90": 3.1,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.1,
         "ICON": 0.0
       }
     },
@@ -1796,8 +1795,8 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1807,8 +1806,8 @@
       "p10": 0.0,
       "p90": 2.8,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1818,8 +1817,8 @@
       "p10": 0.0,
       "p90": 2.6,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1829,8 +1828,8 @@
       "p10": 0.0,
       "p90": 2.4,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.3,
+        "GFS": 0.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1840,8 +1839,8 @@
       "p10": 0.1,
       "p90": 2.2,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.2,
+        "GFS": 0.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1851,8 +1850,8 @@
       "p10": 0.2,
       "p90": 2.3,
       "models": {
-        "GFS": 0.0,
-        "UKMO": 0.1,
+        "GFS": 0.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1862,7 +1861,7 @@
       "p10": 0.3,
       "p90": 2.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1873,7 +1872,7 @@
       "p10": 0.2,
       "p90": 2.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.2,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1884,7 +1883,7 @@
       "p10": 0.1,
       "p90": 2.7,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.1,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1939,7 +1938,7 @@
       "p10": 0.0,
       "p90": 3.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.1,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1950,7 +1949,7 @@
       "p10": 0.0,
       "p90": 3.5,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.2,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1961,7 +1960,7 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1972,8 +1971,8 @@
       "p10": 0.3,
       "p90": 3.7,
       "models": {
-        "GFS": 0.0,
-        "UKMO": null,
+        "GFS": 0.7,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1983,8 +1982,8 @@
       "p10": 0.6,
       "p90": 4.0,
       "models": {
-        "GFS": 0.0,
-        "UKMO": null,
+        "GFS": 1.1,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -1994,8 +1993,8 @@
       "p10": 0.6,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
-        "UKMO": null,
+        "GFS": 1.5,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2005,8 +2004,8 @@
       "p10": 0.6,
       "p90": 4.8,
       "models": {
-        "GFS": 0.0,
-        "UKMO": null,
+        "GFS": 1.5,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2016,8 +2015,8 @@
       "p10": 0.6,
       "p90": 5.1,
       "models": {
-        "GFS": 0.0,
-        "UKMO": null,
+        "GFS": 1.5,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2027,8 +2026,8 @@
       "p10": 0.6,
       "p90": 5.4,
       "models": {
-        "GFS": 0.0,
-        "UKMO": null,
+        "GFS": 1.5,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2038,8 +2037,8 @@
       "p10": 0.8,
       "p90": 5.7,
       "models": {
-        "GFS": 0.1,
-        "UKMO": null,
+        "GFS": 1.7,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2049,8 +2048,8 @@
       "p10": 1.0,
       "p90": 6.0,
       "models": {
-        "GFS": 0.2,
-        "UKMO": null,
+        "GFS": 1.9,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2060,8 +2059,8 @@
       "p10": 1.2,
       "p90": 6.0,
       "models": {
-        "GFS": 0.3,
-        "UKMO": null,
+        "GFS": 2.1,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2071,8 +2070,8 @@
       "p10": 1.2,
       "p90": 6.0,
       "models": {
-        "GFS": 0.3,
-        "UKMO": null,
+        "GFS": 2.2,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2082,8 +2081,8 @@
       "p10": 1.2,
       "p90": 6.2,
       "models": {
-        "GFS": 0.3,
-        "UKMO": null,
+        "GFS": 2.3,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2093,8 +2092,8 @@
       "p10": 1.2,
       "p90": 6.6,
       "models": {
-        "GFS": 0.3,
-        "UKMO": null,
+        "GFS": 2.4,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -2104,7 +2103,7 @@
       "p10": 1.1,
       "p90": 6.9,
       "models": {
-        "GFS": 0.7,
+        "GFS": 2.7,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2115,7 +2114,7 @@
       "p10": 1.0,
       "p90": 6.6,
       "models": {
-        "GFS": 1.1,
+        "GFS": 3.0,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2126,7 +2125,7 @@
       "p10": 0.9,
       "p90": 6.3,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.3,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2137,7 +2136,7 @@
       "p10": 0.8,
       "p90": 6.4,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.3,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2148,7 +2147,7 @@
       "p10": 0.7,
       "p90": 6.3,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.3,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2159,7 +2158,7 @@
       "p10": 0.6,
       "p90": 6.0,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.3,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2170,7 +2169,7 @@
       "p10": 0.6,
       "p90": 6.2,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.4,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2181,7 +2180,7 @@
       "p10": 0.6,
       "p90": 6.4,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.5,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2192,7 +2191,7 @@
       "p10": 0.6,
       "p90": 6.6,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.6,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2203,7 +2202,7 @@
       "p10": 0.6,
       "p90": 6.8,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.5,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2214,7 +2213,7 @@
       "p10": 0.6,
       "p90": 6.7,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.4,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2225,7 +2224,7 @@
       "p10": 0.6,
       "p90": 6.6,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.3,
         "UKMO": null,
         "ICON": 0.0
       }
@@ -2236,7 +2235,7 @@
       "p10": 0.5,
       "p90": 6.3,
       "models": {
-        "GFS": 1.5,
+        "GFS": 3.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2247,7 +2246,7 @@
       "p10": 0.4,
       "p90": 6.0,
       "models": {
-        "GFS": 1.5,
+        "GFS": 2.7,
         "UKMO": null,
         "ICON": null
       }
@@ -2258,7 +2257,7 @@
       "p10": 0.3,
       "p90": 5.7,
       "models": {
-        "GFS": 1.5,
+        "GFS": 2.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2269,7 +2268,7 @@
       "p10": 0.2,
       "p90": 5.4,
       "models": {
-        "GFS": 1.5,
+        "GFS": 2.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2280,7 +2279,7 @@
       "p10": 0.1,
       "p90": 5.4,
       "models": {
-        "GFS": 1.5,
+        "GFS": 2.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2291,7 +2290,7 @@
       "p10": 0.0,
       "p90": 5.4,
       "models": {
-        "GFS": 1.5,
+        "GFS": 2.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2302,7 +2301,7 @@
       "p10": 0.1,
       "p90": 4.7,
       "models": {
-        "GFS": 1.4,
+        "GFS": 2.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2313,7 +2312,7 @@
       "p10": 0.2,
       "p90": 4.4,
       "models": {
-        "GFS": 1.3,
+        "GFS": 2.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2324,7 +2323,7 @@
       "p10": 0.3,
       "p90": 4.8,
       "models": {
-        "GFS": 1.2,
+        "GFS": 1.8,
         "UKMO": null,
         "ICON": null
       }
@@ -2335,7 +2334,7 @@
       "p10": 0.2,
       "p90": 5.2,
       "models": {
-        "GFS": 1.2,
+        "GFS": 1.7,
         "UKMO": null,
         "ICON": null
       }
@@ -2346,7 +2345,7 @@
       "p10": 0.1,
       "p90": 5.1,
       "models": {
-        "GFS": 1.2,
+        "GFS": 1.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2357,7 +2356,7 @@
       "p10": 0.0,
       "p90": 4.8,
       "models": {
-        "GFS": 1.2,
+        "GFS": 1.5,
         "UKMO": null,
         "ICON": null
       }
@@ -2368,7 +2367,7 @@
       "p10": 0.0,
       "p90": 5.0,
       "models": {
-        "GFS": 0.8,
+        "GFS": 1.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2379,7 +2378,7 @@
       "p10": 0.0,
       "p90": 4.8,
       "models": {
-        "GFS": 0.4,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2390,7 +2389,7 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2401,7 +2400,7 @@
       "p10": 0.0,
       "p90": 4.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2412,7 +2411,7 @@
       "p10": 0.0,
       "p90": 4.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2423,7 +2422,7 @@
       "p10": 0.0,
       "p90": 4.2,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2434,7 +2433,7 @@
       "p10": 0.0,
       "p90": 4.1,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.5,
         "UKMO": null,
         "ICON": null
       }
@@ -2445,7 +2444,7 @@
       "p10": 0.0,
       "p90": 4.0,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2456,7 +2455,7 @@
       "p10": 0.0,
       "p90": 3.9,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2467,7 +2466,7 @@
       "p10": 0.0,
       "p90": 3.8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2478,7 +2477,7 @@
       "p10": 0.0,
       "p90": 3.7,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2489,7 +2488,7 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2500,7 +2499,7 @@
       "p10": 0.0,
       "p90": 3.5,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2511,7 +2510,7 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.1,
         "UKMO": null,
         "ICON": null
       }
@@ -2665,7 +2664,7 @@
       "p10": 0.0,
       "p90": 3.8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.1,
         "UKMO": null,
         "ICON": null
       }
@@ -2676,7 +2675,7 @@
       "p10": 0.0,
       "p90": 3.7,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2687,7 +2686,7 @@
       "p10": 0.0,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2698,7 +2697,7 @@
       "p10": 0.0,
       "p90": 3.5,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2709,7 +2708,7 @@
       "p10": 0.0,
       "p90": 3.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.5,
         "UKMO": null,
         "ICON": null
       }
@@ -2720,7 +2719,7 @@
       "p10": 0.0,
       "p90": 3.3,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.6,
         "UKMO": null,
         "ICON": null
       }
@@ -2731,7 +2730,7 @@
       "p10": 0.0,
       "p90": 3.2,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.7,
         "UKMO": null,
         "ICON": null
       }
@@ -2742,7 +2741,7 @@
       "p10": 0.0,
       "p90": 3.1,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.8,
         "UKMO": null,
         "ICON": null
       }
@@ -2753,7 +2752,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2764,7 +2763,7 @@
       "p10": 0.0,
       "p90": 2.9,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2775,7 +2774,7 @@
       "p10": 0.0,
       "p90": 2.8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2786,7 +2785,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.9,
         "UKMO": null,
         "ICON": null
       }
@@ -2797,7 +2796,7 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2808,7 +2807,7 @@
       "p10": 0.0,
       "p90": 2.7,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.1,
         "UKMO": null,
         "ICON": null
       }
@@ -2819,7 +2818,7 @@
       "p10": 0.0,
       "p90": 2.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2830,7 +2829,7 @@
       "p10": 0.0,
       "p90": 2.5,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2841,7 +2840,7 @@
       "p10": 0.0,
       "p90": 2.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2852,7 +2851,7 @@
       "p10": 0.0,
       "p90": 2.7,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.2,
         "UKMO": null,
         "ICON": null
       }
@@ -2863,7 +2862,7 @@
       "p10": 0.0,
       "p90": 2.8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.3,
         "UKMO": null,
         "ICON": null
       }
@@ -2874,7 +2873,7 @@
       "p10": 0.0,
       "p90": 2.9,
       "models": {
-        "GFS": 0.0,
+        "GFS": 1.4,
         "UKMO": null,
         "ICON": null
       }
@@ -2923,19 +2922,19 @@
         "day": "Thursday 3 September",
         "time": "1:00 PM",
         "timestamp_local": "2026-09-03T13:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 0.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Thursday 3 September",
         "time": "4:00 PM",
         "timestamp_local": "2026-09-03T16:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 0.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Thursday 3 September",
@@ -3394,7 +3393,7 @@
     "ecmwf_ensemble": {
       "status": "ok",
       "label": "ECMWF ensemble",
-      "retrieved_at_utc": "2026-09-03T05:26:14+00:00",
+      "retrieved_at_utc": "2026-09-03T09:36:19+00:00",
       "model_run_utc": null,
       "centre": "ECMWF",
       "model_id": "ecmwf_ifs025",
@@ -3411,7 +3410,7 @@
     "gfs": {
       "status": "ok",
       "label": "GFS",
-      "retrieved_at_utc": "2026-09-03T05:26:15+00:00",
+      "retrieved_at_utc": "2026-09-03T09:36:19+00:00",
       "model_run_utc": null,
       "centre": "NOAA, United States",
       "model_id": "gfs_global",
@@ -3428,7 +3427,7 @@
     "ukmo": {
       "status": "ok",
       "label": "UKMO",
-      "retrieved_at_utc": "2026-09-03T05:26:16+00:00",
+      "retrieved_at_utc": "2026-09-03T09:36:20+00:00",
       "model_run_utc": null,
       "centre": "Met Office, United Kingdom",
       "model_id": "ukmo_global_deterministic_10km",
@@ -3439,13 +3438,13 @@
         "distance_km": 10.1
       },
       "units": "mm",
-      "valid_steps": 181,
-      "covers_peak_window": false
+      "valid_steps": 193,
+      "covers_peak_window": true
     },
     "icon": {
       "status": "ok",
       "label": "ICON",
-      "retrieved_at_utc": "2026-09-03T05:26:17+00:00",
+      "retrieved_at_utc": "2026-09-03T09:36:20+00:00",
       "model_run_utc": null,
       "centre": "DWD, Germany",
       "model_id": "icon_global",
@@ -3462,13 +3461,13 @@
     "bom_detailed": {
       "status": "ok",
       "label": "BOM detailed forecast",
-      "retrieved_at_utc": "2026-09-03T05:26:18+00:00",
+      "retrieved_at_utc": "2026-09-03T09:36:21+00:00",
       "model_run_utc": null,
       "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/",
       "location": "Coolangatta",
       "days_found": 7,
       "steps_found": 56,
-      "steps_with_amounts": 13,
+      "steps_with_amounts": 11,
       "usage_note": "Display only. Exceedance amounts are quantiles and cannot be summed to a 24-hour total."
     }
   },
