@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-25T08:36:08+00:00",
-  "generated_at_local": "2026-09-25T18:36:08+10:00",
+  "generated_at_utc": "2026-09-25T14:40:00+00:00",
+  "generated_at_local": "2026-09-26T00:40:00+10:00",
   "location": {
     "name": "Gold Coast Airport (Coolangatta)",
     "latitude": -28.1644,
@@ -69,9 +69,9 @@
       "members_total": 51,
       "percent_over": 0,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.6,
-        "ICON": 0.3
+        "GFS": 0.9,
+        "UKMO": 0.4,
+        "ICON": 1.1
       }
     },
     {
@@ -103,9 +103,9 @@
       "members_total": 51,
       "percent_over": 0,
       "models": {
-        "GFS": 1.3,
-        "UKMO": 1.9,
-        "ICON": 0.5
+        "GFS": 0.8,
+        "UKMO": 1.6,
+        "ICON": 0.8
       }
     },
     {
@@ -120,9 +120,9 @@
       "members_total": 51,
       "percent_over": 49,
       "models": {
-        "GFS": 3.0,
+        "GFS": 3.4,
         "UKMO": 1.1,
-        "ICON": 5.4
+        "ICON": 3.1
       }
     },
     {
@@ -222,7 +222,7 @@
       "members_total": 51,
       "percent_over": 4,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -324,7 +324,7 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.7,
-        "UKMO": 1.3,
+        "UKMO": 1.1,
         "ICON": 0.6
       }
     },
@@ -335,7 +335,7 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.7,
-        "UKMO": 1.3,
+        "UKMO": 1.1,
         "ICON": 0.6
       }
     },
@@ -346,7 +346,7 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.7,
-        "UKMO": 1.3,
+        "UKMO": 1.1,
         "ICON": 0.6
       }
     },
@@ -357,7 +357,7 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.7,
-        "UKMO": 1.3,
+        "UKMO": 1.1,
         "ICON": 0.6
       }
     },
@@ -368,7 +368,7 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.7,
-        "UKMO": 1.3,
+        "UKMO": 1.1,
         "ICON": 0.6
       }
     },
@@ -379,7 +379,7 @@
       "p90": 3.0,
       "models": {
         "GFS": 0.7,
-        "UKMO": 1.3,
+        "UKMO": 1.1,
         "ICON": 0.4
       }
     },
@@ -389,8 +389,8 @@
       "p10": 0.9,
       "p90": 2.8,
       "models": {
-        "GFS": 0.8,
-        "UKMO": 1.2,
+        "GFS": 0.7,
+        "UKMO": 1.0,
         "ICON": 0.4
       }
     },
@@ -400,8 +400,8 @@
       "p10": 0.9,
       "p90": 2.9,
       "models": {
-        "GFS": 0.8,
-        "UKMO": 1.2,
+        "GFS": 0.7,
+        "UKMO": 0.9,
         "ICON": 0.4
       }
     },
@@ -411,9 +411,9 @@
       "p10": 0.9,
       "p90": 3.0,
       "models": {
-        "GFS": 0.9,
-        "UKMO": 1.1,
-        "ICON": 0.3
+        "GFS": 0.7,
+        "UKMO": 0.9,
+        "ICON": 0.4
       }
     },
     {
@@ -422,9 +422,9 @@
       "p10": 1.0,
       "p90": 3.1,
       "models": {
-        "GFS": 1.0,
-        "UKMO": 1.0,
-        "ICON": 0.3
+        "GFS": 0.7,
+        "UKMO": 0.8,
+        "ICON": 0.4
       }
     },
     {
@@ -433,9 +433,9 @@
       "p10": 1.0,
       "p90": 3.3,
       "models": {
-        "GFS": 0.9,
-        "UKMO": 0.9,
-        "ICON": 0.3
+        "GFS": 0.7,
+        "UKMO": 0.7,
+        "ICON": 0.5
       }
     },
     {
@@ -444,9 +444,9 @@
       "p10": 0.9,
       "p90": 3.6,
       "models": {
-        "GFS": 0.8,
-        "UKMO": 0.8,
-        "ICON": 0.3
+        "GFS": 0.7,
+        "UKMO": 0.6,
+        "ICON": 0.8
       }
     },
     {
@@ -455,9 +455,9 @@
       "p10": 0.9,
       "p90": 3.9,
       "models": {
-        "GFS": 0.7,
-        "UKMO": 0.7,
-        "ICON": 0.3
+        "GFS": 0.8,
+        "UKMO": 0.5,
+        "ICON": 1.0
       }
     },
     {
@@ -466,9 +466,9 @@
       "p10": 0.9,
       "p90": 4.1,
       "models": {
-        "GFS": 0.6,
-        "UKMO": 0.7,
-        "ICON": 0.3
+        "GFS": 0.9,
+        "UKMO": 0.5,
+        "ICON": 1.1
       }
     },
     {
@@ -477,9 +477,9 @@
       "p10": 0.9,
       "p90": 4.5,
       "models": {
-        "GFS": 0.5,
-        "UKMO": 0.7,
-        "ICON": 0.3
+        "GFS": 0.9,
+        "UKMO": 0.5,
+        "ICON": 1.1
       }
     },
     {
@@ -488,9 +488,9 @@
       "p10": 0.8,
       "p90": 4.6,
       "models": {
-        "GFS": 0.4,
-        "UKMO": 0.7,
-        "ICON": 0.3
+        "GFS": 0.9,
+        "UKMO": 0.5,
+        "ICON": 1.1
       }
     },
     {
@@ -499,9 +499,9 @@
       "p10": 0.8,
       "p90": 4.7,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.6,
-        "ICON": 0.3
+        "GFS": 0.9,
+        "UKMO": 0.4,
+        "ICON": 1.1
       }
     },
     {
@@ -510,9 +510,9 @@
       "p10": 0.9,
       "p90": 4.8,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.5,
-        "ICON": 0.3
+        "GFS": 0.9,
+        "UKMO": 0.3,
+        "ICON": 1.1
       }
     },
     {
@@ -521,9 +521,9 @@
       "p10": 0.7,
       "p90": 4.8,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.3,
-        "ICON": 0.3
+        "GFS": 0.9,
+        "UKMO": 0.1,
+        "ICON": 1.1
       }
     },
     {
@@ -532,9 +532,9 @@
       "p10": 0.5,
       "p90": 4.8,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.3,
-        "ICON": 0.1
+        "GFS": 0.9,
+        "UKMO": 0.1,
+        "ICON": 0.9
       }
     },
     {
@@ -543,9 +543,9 @@
       "p10": 0.3,
       "p90": 5.1,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "GFS": 0.9,
+        "UKMO": 0.1,
+        "ICON": 0.8
       }
     },
     {
@@ -554,9 +554,9 @@
       "p10": 0.3,
       "p90": 5.1,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "GFS": 0.9,
+        "UKMO": 0.1,
+        "ICON": 0.8
       }
     },
     {
@@ -565,9 +565,9 @@
       "p10": 0.3,
       "p90": 5.1,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "GFS": 0.9,
+        "UKMO": 0.1,
+        "ICON": 0.8
       }
     },
     {
@@ -576,9 +576,9 @@
       "p10": 0.3,
       "p90": 5.1,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 0.3,
-        "ICON": 0.0
+        "GFS": 0.9,
+        "UKMO": 0.1,
+        "ICON": 0.8
       }
     },
     {
@@ -587,9 +587,9 @@
       "p10": 0.3,
       "p90": 5.1,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": 0.1,
-        "ICON": 0.0
+        "ICON": 0.8
       }
     },
     {
@@ -598,9 +598,9 @@
       "p10": 0.3,
       "p90": 5.1,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": 0.1,
-        "ICON": 0.0
+        "ICON": 0.8
       }
     },
     {
@@ -609,9 +609,9 @@
       "p10": 0.3,
       "p90": 5.1,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": 0.1,
-        "ICON": 0.0
+        "ICON": 0.8
       }
     },
     {
@@ -620,9 +620,9 @@
       "p10": 0.3,
       "p90": 5.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": 0.1,
-        "ICON": 0.0
+        "ICON": 0.8
       }
     },
     {
@@ -631,9 +631,9 @@
       "p10": 0.3,
       "p90": 4.9,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": 0.1,
-        "ICON": 0.0
+        "ICON": 0.8
       }
     },
     {
@@ -642,9 +642,9 @@
       "p10": 0.3,
       "p90": 4.8,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.9,
         "UKMO": 0.1,
-        "ICON": 0.0
+        "ICON": 0.8
       }
     },
     {
@@ -653,9 +653,9 @@
       "p10": 0.3,
       "p90": 4.6,
       "models": {
-        "GFS": 0.2,
+        "GFS": 0.9,
         "UKMO": 0.1,
-        "ICON": 0.0
+        "ICON": 0.8
       }
     },
     {
@@ -664,9 +664,9 @@
       "p10": 0.3,
       "p90": 4.5,
       "models": {
-        "GFS": 0.2,
-        "UKMO": 0.0,
-        "ICON": 0.0
+        "GFS": 0.9,
+        "UKMO": 0.1,
+        "ICON": 0.8
       }
     },
     {
@@ -675,9 +675,9 @@
       "p10": 0.3,
       "p90": 4.2,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.9,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.7
       }
     },
     {
@@ -686,9 +686,9 @@
       "p10": 0.3,
       "p90": 3.8,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.9,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.7
       }
     },
     {
@@ -697,9 +697,9 @@
       "p10": 0.3,
       "p90": 3.7,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.8,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.6
       }
     },
     {
@@ -708,9 +708,9 @@
       "p10": 0.3,
       "p90": 3.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.7,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.3
       }
     },
     {
@@ -719,9 +719,9 @@
       "p10": 0.3,
       "p90": 3.0,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.5,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.1
       }
     },
     {
@@ -730,7 +730,7 @@
       "p10": 0.3,
       "p90": 2.6,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.3,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -741,7 +741,7 @@
       "p10": 0.3,
       "p90": 2.4,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.2,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -752,7 +752,7 @@
       "p10": 0.2,
       "p90": 1.9,
       "models": {
-        "GFS": 0.0,
+        "GFS": 0.1,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -851,7 +851,7 @@
       "p10": 0.0,
       "p90": 0.2,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -862,7 +862,7 @@
       "p10": 0.0,
       "p90": 0.4,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.2,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -873,7 +873,7 @@
       "p10": 0.0,
       "p90": 0.6,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.4,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -884,8 +884,8 @@
       "p10": 0.0,
       "p90": 0.6,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 0.3,
+        "GFS": 0.4,
+        "UKMO": 0.0,
         "ICON": 0.0
       }
     },
@@ -895,9 +895,9 @@
       "p10": 0.0,
       "p90": 0.6,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 0.6,
-        "ICON": 0.2
+        "GFS": 0.4,
+        "UKMO": 0.0,
+        "ICON": 0.0
       }
     },
     {
@@ -906,8 +906,8 @@
       "p10": 0.0,
       "p90": 0.9,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 0.9,
+        "GFS": 0.4,
+        "UKMO": 0.0,
         "ICON": 0.2
       }
     },
@@ -917,8 +917,8 @@
       "p10": 0.0,
       "p90": 0.9,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 1.0,
+        "GFS": 0.4,
+        "UKMO": 0.0,
         "ICON": 0.2
       }
     },
@@ -928,8 +928,8 @@
       "p10": 0.0,
       "p90": 0.9,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 1.1,
+        "GFS": 0.4,
+        "UKMO": 0.0,
         "ICON": 0.2
       }
     },
@@ -939,8 +939,8 @@
       "p10": 0.0,
       "p90": 0.9,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 1.2,
+        "GFS": 0.4,
+        "UKMO": 0.0,
         "ICON": 0.2
       }
     },
@@ -950,8 +950,8 @@
       "p10": 0.0,
       "p90": 1.2,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 1.2,
+        "GFS": 0.4,
+        "UKMO": 0.3,
         "ICON": 0.2
       }
     },
@@ -961,8 +961,8 @@
       "p10": 0.0,
       "p90": 1.4,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 1.2,
+        "GFS": 0.4,
+        "UKMO": 0.6,
         "ICON": 0.2
       }
     },
@@ -972,8 +972,8 @@
       "p10": 0.0,
       "p90": 1.5,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 1.2,
+        "GFS": 0.4,
+        "UKMO": 0.9,
         "ICON": 0.2
       }
     },
@@ -983,8 +983,8 @@
       "p10": 0.0,
       "p90": 1.8,
       "models": {
-        "GFS": 0.1,
-        "UKMO": 1.3,
+        "GFS": 0.4,
+        "UKMO": 1.0,
         "ICON": 0.2
       }
     },
@@ -994,8 +994,8 @@
       "p10": 0.0,
       "p90": 2.6,
       "models": {
-        "GFS": 0.3,
-        "UKMO": 1.4,
+        "GFS": 0.5,
+        "UKMO": 1.1,
         "ICON": 0.2
       }
     },
@@ -1005,8 +1005,8 @@
       "p10": 0.0,
       "p90": 3.0,
       "models": {
-        "GFS": 0.5,
-        "UKMO": 1.5,
+        "GFS": 0.6,
+        "UKMO": 1.2,
         "ICON": 0.2
       }
     },
@@ -1016,8 +1016,8 @@
       "p10": 0.0,
       "p90": 3.9,
       "models": {
-        "GFS": 0.9,
-        "UKMO": 1.7,
+        "GFS": 0.7,
+        "UKMO": 1.4,
         "ICON": 0.2
       }
     },
@@ -1027,9 +1027,9 @@
       "p10": 0.0,
       "p90": 5.2,
       "models": {
-        "GFS": 1.3,
-        "UKMO": 1.9,
-        "ICON": 0.5
+        "GFS": 0.8,
+        "UKMO": 1.6,
+        "ICON": 0.8
       }
     },
     {
@@ -1038,9 +1038,9 @@
       "p10": 0.0,
       "p90": 6.0,
       "models": {
-        "GFS": 1.7,
-        "UKMO": 2.1,
-        "ICON": 1.3
+        "GFS": 0.9,
+        "UKMO": 1.8,
+        "ICON": 1.6
       }
     },
     {
@@ -1049,9 +1049,9 @@
       "p10": 0.3,
       "p90": 7.0,
       "models": {
-        "GFS": 2.1,
-        "UKMO": 2.3,
-        "ICON": 2.2
+        "GFS": 1.2,
+        "UKMO": 2.0,
+        "ICON": 1.8
       }
     },
     {
@@ -1060,9 +1060,9 @@
       "p10": 0.5,
       "p90": 8.5,
       "models": {
-        "GFS": 2.6,
-        "UKMO": 2.5,
-        "ICON": 2.5
+        "GFS": 1.7,
+        "UKMO": 2.2,
+        "ICON": 2.1
       }
     },
     {
@@ -1071,9 +1071,9 @@
       "p10": 0.6,
       "p90": 11.1,
       "models": {
-        "GFS": 3.4,
-        "UKMO": 2.7,
-        "ICON": 3.1
+        "GFS": 2.3,
+        "UKMO": 2.4,
+        "ICON": 2.1
       }
     },
     {
@@ -1082,9 +1082,9 @@
       "p10": 1.0,
       "p90": 12.2,
       "models": {
-        "GFS": 3.5,
-        "UKMO": 2.8,
-        "ICON": 3.2
+        "GFS": 2.9,
+        "UKMO": 2.5,
+        "ICON": 2.2
       }
     },
     {
@@ -1094,8 +1094,8 @@
       "p90": 13.0,
       "models": {
         "GFS": 3.6,
-        "UKMO": 2.9,
-        "ICON": 3.4
+        "UKMO": 2.6,
+        "ICON": 2.6
       }
     },
     {
@@ -1105,8 +1105,8 @@
       "p90": 15.0,
       "models": {
         "GFS": 3.7,
-        "UKMO": 3.0,
-        "ICON": 3.8
+        "UKMO": 2.7,
+        "ICON": 2.8
       }
     },
     {
@@ -1115,9 +1115,9 @@
       "p10": 2.3,
       "p90": 15.4,
       "models": {
-        "GFS": 3.7,
-        "UKMO": 3.0,
-        "ICON": 4.3
+        "GFS": 4.0,
+        "UKMO": 2.7,
+        "ICON": 3.2
       }
     },
     {
@@ -1126,9 +1126,9 @@
       "p10": 2.9,
       "p90": 15.8,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 3.0,
-        "ICON": 4.8
+        "GFS": 4.0,
+        "UKMO": 2.7,
+        "ICON": 3.5
       }
     },
     {
@@ -1137,9 +1137,9 @@
       "p10": 3.0,
       "p90": 16.8,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 3.0,
-        "ICON": 5.3
+        "GFS": 3.8,
+        "UKMO": 2.7,
+        "ICON": 3.6
       }
     },
     {
@@ -1148,9 +1148,9 @@
       "p10": 3.1,
       "p90": 17.1,
       "models": {
-        "GFS": 3.9,
+        "GFS": 3.8,
         "UKMO": 2.7,
-        "ICON": 5.5
+        "ICON": 3.6
       }
     },
     {
@@ -1159,9 +1159,9 @@
       "p10": 3.2,
       "p90": 17.7,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 2.4,
-        "ICON": 5.5
+        "GFS": 3.8,
+        "UKMO": 2.7,
+        "ICON": 3.6
       }
     },
     {
@@ -1170,9 +1170,9 @@
       "p10": 3.6,
       "p90": 18.3,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 2.1,
-        "ICON": 5.7
+        "GFS": 3.8,
+        "UKMO": 2.7,
+        "ICON": 3.4
       }
     },
     {
@@ -1181,9 +1181,9 @@
       "p10": 3.7,
       "p90": 19.3,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 2.0,
-        "ICON": 5.7
+        "GFS": 3.8,
+        "UKMO": 2.7,
+        "ICON": 3.5
       }
     },
     {
@@ -1192,9 +1192,9 @@
       "p10": 3.9,
       "p90": 19.9,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 1.9,
-        "ICON": 5.7
+        "GFS": 3.8,
+        "UKMO": 2.7,
+        "ICON": 3.6
       }
     },
     {
@@ -1203,9 +1203,9 @@
       "p10": 4.2,
       "p90": 20.1,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 1.8,
-        "ICON": 5.7
+        "GFS": 3.8,
+        "UKMO": 2.7,
+        "ICON": 3.7
       }
     },
     {
@@ -1214,9 +1214,9 @@
       "p10": 4.3,
       "p90": 20.3,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 1.8,
-        "ICON": 5.7
+        "GFS": 3.8,
+        "UKMO": 2.4,
+        "ICON": 3.7
       }
     },
     {
@@ -1225,9 +1225,9 @@
       "p10": 4.4,
       "p90": 20.5,
       "models": {
-        "GFS": 3.9,
-        "UKMO": 1.8,
-        "ICON": 5.7
+        "GFS": 3.8,
+        "UKMO": 2.1,
+        "ICON": 3.7
       }
     },
     {
@@ -1236,9 +1236,9 @@
       "p10": 4.5,
       "p90": 20.7,
       "models": {
-        "GFS": 3.9,
+        "GFS": 3.8,
         "UKMO": 1.8,
-        "ICON": 5.7
+        "ICON": 3.7
       }
     },
     {
@@ -1247,9 +1247,9 @@
       "p10": 4.7,
       "p90": 21.2,
       "models": {
-        "GFS": 3.9,
+        "GFS": 3.8,
         "UKMO": 1.7,
-        "ICON": 5.7
+        "ICON": 3.7
       }
     },
     {
@@ -1258,9 +1258,9 @@
       "p10": 4.8,
       "p90": 21.7,
       "models": {
-        "GFS": 3.8,
+        "GFS": 3.7,
         "UKMO": 1.6,
-        "ICON": 5.7
+        "ICON": 3.7
       }
     },
     {
@@ -1269,9 +1269,9 @@
       "p10": 4.5,
       "p90": 22.2,
       "models": {
-        "GFS": 3.7,
+        "GFS": 3.6,
         "UKMO": 1.5,
-        "ICON": 5.7
+        "ICON": 3.7
       }
     },
     {
@@ -1280,9 +1280,9 @@
       "p10": 4.8,
       "p90": 21.7,
       "models": {
-        "GFS": 3.4,
+        "GFS": 3.5,
         "UKMO": 1.3,
-        "ICON": 5.7
+        "ICON": 3.7
       }
     },
     {
@@ -1291,9 +1291,9 @@
       "p10": 4.7,
       "p90": 21.2,
       "models": {
-        "GFS": 3.0,
+        "GFS": 3.4,
         "UKMO": 1.1,
-        "ICON": 5.4
+        "ICON": 3.1
       }
     },
     {
@@ -1302,9 +1302,9 @@
       "p10": 4.2,
       "p90": 19.5,
       "models": {
-        "GFS": 2.6,
+        "GFS": 3.3,
         "UKMO": 0.9,
-        "ICON": 4.6
+        "ICON": 2.3
       }
     },
     {
@@ -1313,9 +1313,9 @@
       "p10": 3.8,
       "p90": 17.4,
       "models": {
-        "GFS": 2.2,
+        "GFS": 3.0,
         "UKMO": 0.7,
-        "ICON": 3.7
+        "ICON": 2.1
       }
     },
     {
@@ -1324,9 +1324,9 @@
       "p10": 3.4,
       "p90": 15.3,
       "models": {
-        "GFS": 1.7,
+        "GFS": 2.5,
         "UKMO": 0.5,
-        "ICON": 3.4
+        "ICON": 1.8
       }
     },
     {
@@ -1335,9 +1335,9 @@
       "p10": 2.7,
       "p90": 14.4,
       "models": {
-        "GFS": 0.9,
+        "GFS": 1.9,
         "UKMO": 0.3,
-        "ICON": 2.8
+        "ICON": 1.8
       }
     },
     {
@@ -1346,9 +1346,9 @@
       "p10": 2.7,
       "p90": 13.3,
       "models": {
-        "GFS": 0.8,
+        "GFS": 1.3,
         "UKMO": 0.2,
-        "ICON": 2.7
+        "ICON": 1.7
       }
     },
     {
@@ -1357,9 +1357,9 @@
       "p10": 2.6,
       "p90": 12.2,
       "models": {
-        "GFS": 0.7,
+        "GFS": 0.6,
         "UKMO": 0.1,
-        "ICON": 2.5
+        "ICON": 1.3
       }
     },
     {
@@ -1368,9 +1368,9 @@
       "p10": 2.1,
       "p90": 11.1,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.5,
         "UKMO": 0.0,
-        "ICON": 2.1
+        "ICON": 1.1
       }
     },
     {
@@ -1379,9 +1379,9 @@
       "p10": 1.9,
       "p90": 9.6,
       "models": {
-        "GFS": 0.5,
+        "GFS": 0.2,
         "UKMO": 0.0,
-        "ICON": 1.6
+        "ICON": 0.7
       }
     },
     {
@@ -1390,9 +1390,9 @@
       "p10": 1.7,
       "p90": 8.4,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
-        "ICON": 1.1
+        "ICON": 0.4
       }
     },
     {
@@ -1401,9 +1401,9 @@
       "p10": 0.9,
       "p90": 7.2,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
-        "ICON": 0.6
+        "ICON": 0.3
       }
     },
     {
@@ -1412,9 +1412,9 @@
       "p10": 0.8,
       "p90": 6.6,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
-        "ICON": 0.4
+        "ICON": 0.3
       }
     },
     {
@@ -1423,9 +1423,9 @@
       "p10": 0.7,
       "p90": 6.1,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
-        "ICON": 0.2
+        "ICON": 0.3
       }
     },
     {
@@ -1434,9 +1434,9 @@
       "p10": 0.6,
       "p90": 5.4,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.3
       }
     },
     {
@@ -1445,9 +1445,9 @@
       "p10": 0.4,
       "p90": 5.2,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.2
       }
     },
     {
@@ -1456,9 +1456,9 @@
       "p10": 0.3,
       "p90": 4.8,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
-        "ICON": 0.0
+        "ICON": 0.1
       }
     },
     {
@@ -1467,7 +1467,7 @@
       "p10": 0.3,
       "p90": 4.5,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1478,7 +1478,7 @@
       "p10": 0.2,
       "p90": 4.3,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1489,7 +1489,7 @@
       "p10": 0.1,
       "p90": 4.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1500,7 +1500,7 @@
       "p10": 0.0,
       "p90": 3.9,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1511,7 +1511,7 @@
       "p10": 0.0,
       "p90": 3.4,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1522,7 +1522,7 @@
       "p10": 0.0,
       "p90": 3.1,
       "models": {
-        "GFS": 0.2,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -1533,7 +1533,7 @@
       "p10": 0.0,
       "p90": 2.7,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.0,
         "UKMO": 0.0,
         "ICON": 0.0
       }
@@ -2633,7 +2633,7 @@
       "p10": 0.0,
       "p90": 4.9,
       "models": {
-        "GFS": 0.1,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2644,7 +2644,7 @@
       "p10": 0.0,
       "p90": 6.2,
       "models": {
-        "GFS": 0.2,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2655,7 +2655,7 @@
       "p10": 0.0,
       "p90": 6.0,
       "models": {
-        "GFS": 0.3,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2666,7 +2666,7 @@
       "p10": 0.0,
       "p90": 5.6,
       "models": {
-        "GFS": 0.4,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2677,7 +2677,7 @@
       "p10": 0.0,
       "p90": 5.2,
       "models": {
-        "GFS": 0.5,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2688,7 +2688,7 @@
       "p10": 0.0,
       "p90": 4.8,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2699,7 +2699,7 @@
       "p10": 0.0,
       "p90": 4.5,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2710,7 +2710,7 @@
       "p10": 0.0,
       "p90": 4.8,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2721,7 +2721,7 @@
       "p10": 0.0,
       "p90": 5.1,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2732,7 +2732,7 @@
       "p10": 0.0,
       "p90": 4.4,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2743,7 +2743,7 @@
       "p10": 0.0,
       "p90": 4.7,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2754,7 +2754,7 @@
       "p10": 0.0,
       "p90": 4.8,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2765,7 +2765,7 @@
       "p10": 0.0,
       "p90": 4.9,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2776,7 +2776,7 @@
       "p10": 0.0,
       "p90": 5.2,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2787,7 +2787,7 @@
       "p10": 0.0,
       "p90": 6.0,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2798,7 +2798,7 @@
       "p10": 0.0,
       "p90": 6.4,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2809,7 +2809,7 @@
       "p10": 0.0,
       "p90": 6.5,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2820,7 +2820,7 @@
       "p10": 0.0,
       "p90": 6.6,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2831,7 +2831,7 @@
       "p10": 0.0,
       "p90": 6.5,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2842,7 +2842,7 @@
       "p10": 0.0,
       "p90": 6.4,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2853,7 +2853,7 @@
       "p10": 0.0,
       "p90": 6.3,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2864,7 +2864,7 @@
       "p10": 0.0,
       "p90": 6.2,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2875,7 +2875,7 @@
       "p10": 0.0,
       "p90": 6.1,
       "models": {
-        "GFS": 0.6,
+        "GFS": 0.0,
         "UKMO": null,
         "ICON": null
       }
@@ -2933,19 +2933,19 @@
         "day": "Friday 25 September",
         "time": "4:00 PM",
         "timestamp_local": "2026-09-25T16:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 5.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Friday 25 September",
         "time": "7:00 PM",
         "timestamp_local": "2026-09-25T19:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 10.0
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": null
       },
       {
         "day": "Friday 25 September",
@@ -2980,8 +2980,8 @@
         "timestamp_local": "2026-09-26T07:00:00+10:00",
         "mm_50pct": 0.0,
         "mm_25pct": 0.0,
-        "mm_10pct": 1.0,
-        "chance_any_rain": 30.0
+        "mm_10pct": 2.0,
+        "chance_any_rain": 40.0
       },
       {
         "day": "Saturday 26 September",
@@ -2990,7 +2990,7 @@
         "mm_50pct": 0.0,
         "mm_25pct": 0.0,
         "mm_10pct": 0.0,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 20.0
       },
       {
         "day": "Saturday 26 September",
@@ -3062,7 +3062,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Sunday 27 September",
@@ -3071,7 +3071,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Sunday 27 September",
@@ -3080,7 +3080,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Sunday 27 September",
@@ -3089,7 +3089,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Sunday 27 September",
@@ -3116,7 +3116,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 30.0
+        "chance_any_rain": 20.0
       },
       {
         "day": "Monday 28 September",
@@ -3125,7 +3125,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 50.0
+        "chance_any_rain": 40.0
       },
       {
         "day": "Monday 28 September",
@@ -3170,7 +3170,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 40.0
+        "chance_any_rain": 30.0
       },
       {
         "day": "Tuesday 29 September",
@@ -3179,7 +3179,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 40.0
+        "chance_any_rain": 30.0
       },
       {
         "day": "Tuesday 29 September",
@@ -3197,7 +3197,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 30.0
+        "chance_any_rain": 20.0
       },
       {
         "day": "Tuesday 29 September",
@@ -3242,7 +3242,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Wednesday 30 September",
@@ -3251,7 +3251,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Wednesday 30 September",
@@ -3260,7 +3260,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Wednesday 30 September",
@@ -3278,7 +3278,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Wednesday 30 September",
@@ -3287,7 +3287,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Wednesday 30 September",
@@ -3296,7 +3296,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Wednesday 30 September",
@@ -3305,7 +3305,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Wednesday 30 September",
@@ -3332,7 +3332,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Thursday 1 October",
@@ -3350,7 +3350,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Thursday 1 October",
@@ -3359,7 +3359,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 0.0
       },
       {
         "day": "Thursday 1 October",
@@ -3386,7 +3386,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 0.0
+        "chance_any_rain": 5.0
       }
     ],
     "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/"
@@ -3395,7 +3395,7 @@
     "ecmwf_ensemble": {
       "status": "ok",
       "label": "ECMWF ensemble",
-      "retrieved_at_utc": "2026-09-25T08:36:09+00:00",
+      "retrieved_at_utc": "2026-09-25T14:40:01+00:00",
       "model_run_utc": null,
       "centre": "ECMWF",
       "model_id": "ecmwf_ifs025",
@@ -3412,7 +3412,7 @@
     "gfs": {
       "status": "ok",
       "label": "GFS",
-      "retrieved_at_utc": "2026-09-25T08:36:09+00:00",
+      "retrieved_at_utc": "2026-09-25T14:40:01+00:00",
       "model_run_utc": null,
       "centre": "NOAA, United States",
       "model_id": "gfs_global",
@@ -3429,7 +3429,7 @@
     "ukmo": {
       "status": "ok",
       "label": "UKMO",
-      "retrieved_at_utc": "2026-09-25T08:36:10+00:00",
+      "retrieved_at_utc": "2026-09-25T14:40:02+00:00",
       "model_run_utc": null,
       "centre": "Met Office, United Kingdom",
       "model_id": "ukmo_global_deterministic_10km",
@@ -3446,7 +3446,7 @@
     "icon": {
       "status": "ok",
       "label": "ICON",
-      "retrieved_at_utc": "2026-09-25T08:36:10+00:00",
+      "retrieved_at_utc": "2026-09-25T14:40:02+00:00",
       "model_run_utc": null,
       "centre": "DWD, Germany",
       "model_id": "icon_global",
@@ -3463,13 +3463,13 @@
     "bom_detailed": {
       "status": "ok",
       "label": "BOM detailed forecast",
-      "retrieved_at_utc": "2026-09-25T08:36:11+00:00",
+      "retrieved_at_utc": "2026-09-25T14:40:03+00:00",
       "model_run_utc": null,
       "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/",
       "location": "Coolangatta",
       "days_found": 7,
       "steps_found": 56,
-      "steps_with_amounts": 12,
+      "steps_with_amounts": 10,
       "usage_note": "Display only. Exceedance amounts are quantiles and cannot be summed to a 24-hour total."
     }
   },
