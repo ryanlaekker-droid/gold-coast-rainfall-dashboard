@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-14T09:53:04+00:00",
-  "generated_at_local": "2026-11-14T19:53:04+10:00",
+  "generated_at_utc": "2026-11-14T15:54:41+00:00",
+  "generated_at_local": "2026-11-15T01:54:41+10:00",
   "location": {
     "name": "Gold Coast Airport (Coolangatta)",
     "latitude": -28.1644,
@@ -1878,85 +1878,13 @@
     "status": "ok",
     "rows": [
       {
-        "day": "Saturday 14 November",
-        "time": "1:00 AM",
-        "timestamp_local": "2026-11-14T01:00:00+10:00",
-        "mm_50pct": null,
-        "mm_25pct": null,
-        "mm_10pct": null,
-        "chance_any_rain": null
-      },
-      {
-        "day": "Saturday 14 November",
-        "time": "4:00 AM",
-        "timestamp_local": "2026-11-14T04:00:00+10:00",
-        "mm_50pct": null,
-        "mm_25pct": null,
-        "mm_10pct": null,
-        "chance_any_rain": null
-      },
-      {
-        "day": "Saturday 14 November",
-        "time": "7:00 AM",
-        "timestamp_local": "2026-11-14T07:00:00+10:00",
-        "mm_50pct": null,
-        "mm_25pct": null,
-        "mm_10pct": null,
-        "chance_any_rain": null
-      },
-      {
-        "day": "Saturday 14 November",
-        "time": "10:00 AM",
-        "timestamp_local": "2026-11-14T10:00:00+10:00",
-        "mm_50pct": null,
-        "mm_25pct": null,
-        "mm_10pct": null,
-        "chance_any_rain": null
-      },
-      {
-        "day": "Saturday 14 November",
-        "time": "1:00 PM",
-        "timestamp_local": "2026-11-14T13:00:00+10:00",
-        "mm_50pct": null,
-        "mm_25pct": null,
-        "mm_10pct": null,
-        "chance_any_rain": null
-      },
-      {
-        "day": "Saturday 14 November",
-        "time": "4:00 PM",
-        "timestamp_local": "2026-11-14T16:00:00+10:00",
-        "mm_50pct": null,
-        "mm_25pct": null,
-        "mm_10pct": null,
-        "chance_any_rain": null
-      },
-      {
-        "day": "Saturday 14 November",
-        "time": "7:00 PM",
-        "timestamp_local": "2026-11-14T19:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 1.0,
-        "chance_any_rain": 10.0
-      },
-      {
-        "day": "Saturday 14 November",
-        "time": "10:00 PM",
-        "timestamp_local": "2026-11-14T22:00:00+10:00",
-        "mm_50pct": 0.0,
-        "mm_25pct": 0.0,
-        "mm_10pct": 0.0,
-        "chance_any_rain": 10.0
-      },
-      {
         "day": "Sunday 15 November",
         "time": "1:00 AM",
         "timestamp_local": "2026-11-15T01:00:00+10:00",
         "mm_50pct": 0.0,
         "mm_25pct": 0.0,
         "mm_10pct": 0.0,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Sunday 15 November",
@@ -1992,7 +1920,7 @@
         "mm_50pct": 0.0,
         "mm_25pct": 0.0,
         "mm_10pct": 2.0,
-        "chance_any_rain": 20.0
+        "chance_any_rain": 30.0
       },
       {
         "day": "Sunday 15 November",
@@ -2009,7 +1937,7 @@
         "timestamp_local": "2026-11-15T19:00:00+10:00",
         "mm_50pct": 0.0,
         "mm_25pct": 0.0,
-        "mm_10pct": 3.0,
+        "mm_10pct": 1.0,
         "chance_any_rain": 20.0
       },
       {
@@ -2064,7 +1992,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 60.0
+        "chance_any_rain": 50.0
       },
       {
         "day": "Monday 16 November",
@@ -2073,7 +2001,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 60.0
+        "chance_any_rain": 70.0
       },
       {
         "day": "Monday 16 November",
@@ -2082,7 +2010,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 30.0
+        "chance_any_rain": 40.0
       },
       {
         "day": "Monday 16 November",
@@ -2118,7 +2046,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Tuesday 17 November",
@@ -2127,7 +2055,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 20.0
       },
       {
         "day": "Tuesday 17 November",
@@ -2136,7 +2064,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 20.0
       },
       {
         "day": "Tuesday 17 November",
@@ -2145,7 +2073,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Tuesday 17 November",
@@ -2235,7 +2163,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Thursday 19 November",
@@ -2244,7 +2172,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Thursday 19 November",
@@ -2343,7 +2271,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Friday 20 November",
@@ -2352,7 +2280,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 5.0
+        "chance_any_rain": 10.0
       },
       {
         "day": "Friday 20 November",
@@ -2361,7 +2289,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Friday 20 November",
@@ -2370,7 +2298,7 @@
         "mm_50pct": null,
         "mm_25pct": null,
         "mm_10pct": null,
-        "chance_any_rain": 10.0
+        "chance_any_rain": 5.0
       },
       {
         "day": "Friday 20 November",
@@ -2380,6 +2308,78 @@
         "mm_25pct": null,
         "mm_10pct": null,
         "chance_any_rain": 10.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "1:00 AM",
+        "timestamp_local": "2026-11-21T01:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 10.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "4:00 AM",
+        "timestamp_local": "2026-11-21T04:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 10.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "7:00 AM",
+        "timestamp_local": "2026-11-21T07:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 5.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "10:00 AM",
+        "timestamp_local": "2026-11-21T10:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 5.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "1:00 PM",
+        "timestamp_local": "2026-11-21T13:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 5.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "4:00 PM",
+        "timestamp_local": "2026-11-21T16:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 5.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "7:00 PM",
+        "timestamp_local": "2026-11-21T19:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 5.0
+      },
+      {
+        "day": "Saturday 21 November",
+        "time": "10:00 PM",
+        "timestamp_local": "2026-11-21T22:00:00+10:00",
+        "mm_50pct": null,
+        "mm_25pct": null,
+        "mm_10pct": null,
+        "chance_any_rain": 5.0
       }
     ],
     "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/"
@@ -2388,7 +2388,7 @@
     "ecmwf_ensemble": {
       "status": "ok",
       "label": "ECMWF ensemble",
-      "retrieved_at_utc": "2026-11-14T09:53:05+00:00",
+      "retrieved_at_utc": "2026-11-14T15:54:42+00:00",
       "model_run_utc": null,
       "centre": "ECMWF",
       "model_id": "ecmwf_ifs025",
@@ -2405,31 +2405,31 @@
     "gfs": {
       "status": "failed",
       "label": "GFS",
-      "retrieved_at_utc": "2026-11-14T09:53:35+00:00",
+      "retrieved_at_utc": "2026-11-14T15:55:12+00:00",
       "error": "HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
     },
     "ukmo": {
       "status": "failed",
       "label": "UKMO",
-      "retrieved_at_utc": "2026-11-14T09:54:05+00:00",
+      "retrieved_at_utc": "2026-11-14T15:55:42+00:00",
       "error": "HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
     },
     "icon": {
       "status": "failed",
       "label": "ICON",
-      "retrieved_at_utc": "2026-11-14T09:54:35+00:00",
+      "retrieved_at_utc": "2026-11-14T15:56:12+00:00",
       "error": "HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
     },
     "bom_detailed": {
       "status": "ok",
       "label": "BOM detailed forecast",
-      "retrieved_at_utc": "2026-11-14T09:54:36+00:00",
+      "retrieved_at_utc": "2026-11-14T15:56:12+00:00",
       "model_run_utc": null,
       "source_url": "https://www.bom.gov.au/places/qld/coolangatta/forecast/detailed/",
       "location": "Coolangatta",
       "days_found": 7,
       "steps_found": 56,
-      "steps_with_amounts": 11,
+      "steps_with_amounts": 9,
       "usage_note": "Display only. Exceedance amounts are quantiles and cannot be summed to a 24-hour total."
     }
   },
